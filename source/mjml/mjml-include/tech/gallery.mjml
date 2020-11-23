@@ -1,0 +1,53 @@
+<mj-column mj-class="gallery__column">
+
+  <mj-image mj-class="gallery__image" src="image/img-tech-product-1.png" alt="phone" />
+
+  <mj-text mj-class="gallery__caption h3">
+    Mobile
+  </mj-text>
+
+  <mj-text mj-class="gallery__text">
+    Duis sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt
+    mollit anim id est laborum.
+  </mj-text>
+
+  <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>
+
+</mj-column>
+
+<mj-column mj-class="gallery__column">
+
+  <mj-image mj-class="gallery__image" src="image/img-tech-headphones-2.jpg" alt="headphones" />
+
+  <mj-text mj-class="gallery__caption h3">
+    Headphones
+  </mj-text>
+
+  <mj-text mj-class="gallery__text">
+    Duis sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt
+    mollit anim id est laborum.
+  </mj-text>
+
+  <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>
+
+</mj-column>
+
+<mj-column mj-class="gallery__column">
+
+  <mj-image mj-class="gallery__image" src="image/img-tech-product-2.png" alt="camera" />
+
+  <mj-text mj-class="gallery__caption h3">
+    Camera
+  </mj-text>
+
+  <mj-text mj-class="gallery__text">
+    Duis sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt
+    mollit anim id est laborum.
+  </mj-text>
+
+  <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>
+
+</mj-column>

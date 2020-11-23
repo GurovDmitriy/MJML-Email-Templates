@@ -4,4 +4,16 @@
     min-width: 320px !important;
   }
 
+  .header__title span {
+    white-space: nowrap !important;
+  }
+
+  .header__title span:first-child {
+    color: #fde4ac !important;
+  }
+
+  .footer__copyright a {
+    color: #ffffff !important;
+  }
+
 </mj-style>

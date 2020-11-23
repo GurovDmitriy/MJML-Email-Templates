@@ -1,0 +1,19 @@
+<mj-column mj-class="main-bottom__column main-bottom__column-left" width="40%">
+
+  <mj-text mj-class="main-bottom__title h2">
+    The best VR glasses
+  </mj-text>
+
+  <mj-text mj-class="main-bottom__text">
+    Duis aute culpa qui officia deserunt mollit anim id est laborum.
+  </mj-text>
+
+  <mj-button mj-class="main-bottom__btn btn" href="#">Get 30&#37; off</mj-button>
+
+</mj-column>
+
+<mj-column mj-class="main-bottom__column" width="60%">
+
+  <mj-image mj-class="main-bottom__image" src="image/img-tech-vr.png" alt="VR glasses" />
+
+</mj-column>

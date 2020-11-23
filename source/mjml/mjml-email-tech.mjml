@@ -4,20 +4,50 @@
   <mj-title>Tech Template</mj-title>
   <mj-preview>Tech Blackfriday &mdash; this 29 november get 30&#37; off</mj-preview>
 
+  <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" />
+  <mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" />
+
   <mj-include path="mjml-include/tech/attributes.mjml" />
   <mj-include path="mjml-include/tech/style.mjml" />
 
 </mj-head>
 <mj-body css-class="body">
 
-  <mj-wrapper mj-class="header-wrapper" css-class="header-wrapper" full-width="full-width">
-    <mj-section mj-class="header" css-class="header">
+  <mj-wrapper mj-class="header-wrapper" full-width="full-width">
+    <mj-section mj-class="header">
       <mj-include path="mjml-include/tech/header.mjml" />
     </mj-section>
   </mj-wrapper>
 
-  <mj-wrapper mj-class="header-bottom-wrapper" css-class="header-bottom-wrapper" full-width="full-width">
-    <mj-section mj-class="header-bottom" css-class="header-bottom">
+  <mj-wrapper mj-class="header-bottom-wrapper" full-width="full-width">
+    <mj-section mj-class="spacer"></mj-section>
+  </mj-wrapper>
+
+  <mj-wrapper mj-class="main-top-wrapper" full-width="full-width">
+    <mj-section mj-class="main-top">
+      <mj-include path="mjml-include/tech/main-top.mjml" />
+    </mj-section>
+  </mj-wrapper>
+
+  <mj-wrapper mj-class="main-top-bottom-wrapper" full-width="full-width">
+    <mj-section mj-class="spacer"></mj-section>
+  </mj-wrapper>
+
+  <mj-wrapper mj-class="gallery-wrapper" full-width="full-width">
+    <mj-section mj-class="gallery">
+      <mj-include path="mjml-include/tech/gallery.mjml" />
+    </mj-section>
+  </mj-wrapper>
+
+  <mj-wrapper mj-class="main-bottom-wrapper" full-width="full-width">
+    <mj-section mj-class="main-bottom">
+      <mj-include path="mjml-include/tech/main-bottom.mjml" />
+    </mj-section>
+  </mj-wrapper>
+
+  <mj-wrapper mj-class="footer-wrapper" full-width="full-width">
+    <mj-section mj-class="footer">
+      <mj-include path="mjml-include/tech/footer.mjml" />
     </mj-section>
   </mj-wrapper>
 

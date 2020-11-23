@@ -1,0 +1,19 @@
+<mj-column width="40%">
+
+  <mj-text mj-class="main-top__title h2">
+    You feel the power of tech
+  </mj-text>
+
+  <mj-text mj-class="main-top__text">
+    Excepteur sint occaecat cupidatat anim id est laborum.
+  </mj-text>
+
+  <mj-button mj-class="main-top__btn btn" href="#">New products</mj-button>
+
+</mj-column>
+
+<mj-column width="60%">
+
+  <mj-image mj-class="main-top__image" src="image/img-tech-quadrocopter.png" alt="quadrocopter" />
+
+</mj-column>

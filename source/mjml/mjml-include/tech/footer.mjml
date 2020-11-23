@@ -1,0 +1,18 @@
+<mj-column width="40%">
+
+  <mj-social mj-class="footer__social">
+    <mj-social-element mj-class="footer__social__element" src="image/img-tech-facebook.png"  href="#" alt="facebook"></mj-social-element>
+    <mj-social-element mj-class="footer__social__element" src="image/img-tech-twitter.png"   href="#" alt="twitter"></mj-social-element>
+    <mj-social-element mj-class="footer__social__element" src="image/img-tech-instagram.png" href="#" alt="instagram"></mj-social-element>
+    <mj-social-element mj-class="footer__social__element" src="image/img-tech-linkedin.png"  href="#" alt="linkedin"></mj-social-element>
+  </mj-social>
+
+</mj-column>
+
+<mj-column width="60%">
+
+  <mj-text mj-class="footer__copyright" css-class="footer__copyright">
+    Template created by <a href="https://www.typenote.io/">typenote.io</a>
+  </mj-text>
+
+</mj-column>
