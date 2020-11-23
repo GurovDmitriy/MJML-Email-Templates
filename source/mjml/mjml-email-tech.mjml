@@ -1,0 +1,25 @@
+<mjml lang="en">
+<mj-head>
+
+  <mj-title>Tech Template</mj-title>
+  <mj-preview>Tech Blackfriday &mdash; this 29 november get 30&#37; off</mj-preview>
+
+  <mj-include path="mjml-include/tech/attributes.mjml" />
+  <mj-include path="mjml-include/tech/style.mjml" />
+
+</mj-head>
+<mj-body css-class="body">
+
+  <mj-wrapper mj-class="header-wrapper" css-class="header-wrapper" full-width="full-width">
+    <mj-section mj-class="header" css-class="header">
+      <mj-include path="mjml-include/tech/header.mjml" />
+    </mj-section>
+  </mj-wrapper>
+
+  <mj-wrapper mj-class="header-bottom-wrapper" css-class="header-bottom-wrapper" full-width="full-width">
+    <mj-section mj-class="header-bottom" css-class="header-bottom">
+    </mj-section>
+  </mj-wrapper>
+
+</mj-body>
+<mjml>

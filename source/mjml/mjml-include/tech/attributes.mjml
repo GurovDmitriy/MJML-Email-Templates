@@ -1,0 +1,44 @@
+<mj-attributes>
+
+  <mj-all font-family="Arial, sans-serif"
+          font-size="14px"
+          line-height="22px"
+          color="#ffffff" />
+
+  <mj-class name="header-wrapper"        background-url="image/img-tech-bg-4.jpg"
+                                         background-size="auto"
+                                         background-position="center center"
+                                         background-repeat="no-repeat"
+                                         background-color="#000000" />
+
+  <mj-class name="header-bottom-wrapper" background-url="image/img-tech-bg-1.png"
+                                         background-size="auto"
+                                         background-position="center center"
+                                         background-repeat="no-repeat"
+                                         background-color="#000000" />
+
+  <mj-class name="header"                background-color="#000000" />
+
+  <mj-class name="header__logo"          width="128px" />
+
+  <mj-class name="header__text"          align="center"
+                                         font-size="10px"
+                                         line-height="16px"
+                                         font-weight="bold"
+                                         text-transform="uppercase" />
+
+  <mj-class name="header__title"         align="center"
+                                         font-size="64px"
+                                         line-height="64px"
+                                         font-weight="bold"
+                                         font-style="italic"
+                                         text-transform="uppercase" />
+
+  <mj-class name="header__btn"           background-color="#000000"
+                                         border="2px solid #ffffff"
+                                         font-size="15px"
+                                         line-height="22px"
+                                         font-weight="bold"
+                                         text-transform="uppercase" />
+
+</mj-attributes>

@@ -1,0 +1,7 @@
+<mj-style inline="inline">
+
+  .body {
+    min-width: 320px !important;
+  }
+
+</mj-style>

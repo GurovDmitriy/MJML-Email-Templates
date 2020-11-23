@@ -1,0 +1,41 @@
+{
+  "name": "mjml-email-templates",
+  "version": "1.0.0",
+  "description": "mjml email templates",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-copy": "^4.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-image": "^6.2.1",
+    "gulp-mailing": "^0.1.0",
+    "gulp-mjml": "^4.0.2",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-ttf2woff2": "^3.0.0",
+    "gulp-watch": "^5.0.1",
+    "mjml": "^4.7.1"
+  },
+  "scripts": {
+    "build": "gulp fullbuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "mjml",
+    "gulp"
+  ],
+  "browserslist": [
+    "defaults"
+  ],
+  "author": "Gurov Dmitriy",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
