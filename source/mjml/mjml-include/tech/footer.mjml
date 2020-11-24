@@ -1,18 +1,42 @@
-<mj-column width="40%">
+<mj-column css-class="footer__column"
+           width="50%">
 
   <mj-social mj-class="footer__social">
-    <mj-social-element mj-class="footer__social__element" src="image/img-tech-facebook.png"  href="#" alt="facebook"></mj-social-element>
-    <mj-social-element mj-class="footer__social__element" src="image/img-tech-twitter.png"   href="#" alt="twitter"></mj-social-element>
-    <mj-social-element mj-class="footer__social__element" src="image/img-tech-instagram.png" href="#" alt="instagram"></mj-social-element>
-    <mj-social-element mj-class="footer__social__element" src="image/img-tech-linkedin.png"  href="#" alt="linkedin"></mj-social-element>
+
+    <mj-social-element mj-class="footer__social__element"
+                       src="https://i.postimg.cc/RCkHxhrJ/img-tech-facebook.png"
+                       href="#"
+                       alt="facebook"
+                       title="facebook"></mj-social-element>
+
+    <mj-social-element mj-class="footer__social__element"
+                       src="https://i.postimg.cc/fT7J4vj1/img-tech-twitter.png"
+                       href="#"
+                       alt="twitter"
+                       title="twitter"></mj-social-element>
+
+    <mj-social-element mj-class="footer__social__element"
+                       src="https://i.postimg.cc/PJYN5bGp/img-tech-instagram.png"
+                       href="#"
+                       alt="instagram"
+                       title="instagram"></mj-social-element>
+
+    <mj-social-element mj-class="footer__social__element"
+                       src="https://i.postimg.cc/HWyrzmJY/img-tech-linkedin.png"
+                       href="#"
+                       alt="linkedin"
+                       title="linkedin"></mj-social-element>
+
   </mj-social>
 
 </mj-column>
 
-<mj-column width="60%">
+<mj-column css-class="footer__column"
+           width="50%">
 
-  <mj-text mj-class="footer__copyright" css-class="footer__copyright">
-    Template created by <a href="https://www.typenote.io/">typenote.io</a>
+  <mj-text mj-class="footer__copyright"
+           css-class="footer__copyright">
+    Template created by <a href="https://www.typenote.io/" target="_blank">typenote.io</a>
   </mj-text>
 
 </mj-column>

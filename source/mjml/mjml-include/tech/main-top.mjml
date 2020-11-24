@@ -1,4 +1,6 @@
-<mj-column width="40%">
+<mj-column mj-class="main-top__column"
+           css-class="main-top__column-left"
+           width="40%">
 
   <mj-text mj-class="main-top__title h2">
     You feel the power of tech
@@ -8,12 +10,19 @@
     Excepteur sint occaecat cupidatat anim id est laborum.
   </mj-text>
 
-  <mj-button mj-class="main-top__btn btn" href="#">New products</mj-button>
+  <mj-button mj-class="main-top__btn btn"
+             href="#">New products</mj-button>
 
 </mj-column>
 
-<mj-column width="60%">
+<mj-column mj-class="main-top__column"
+           css-class="main-top__column-right"
+           width="60%">
 
-  <mj-image mj-class="main-top__image" src="image/img-tech-quadrocopter.png" alt="quadrocopter" />
+  <mj-image mj-class="main-top__image"
+            css-class="main-top__image"
+            src="https://i.postimg.cc/3xKW3DtN/img-tech-quadrocopter.png"
+            alt="Quadrocopter"
+            title="Quadrocopter" />
 
 </mj-column>

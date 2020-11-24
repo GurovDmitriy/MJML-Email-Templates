@@ -1,4 +1,6 @@
-<mj-column mj-class="main-bottom__column main-bottom__column-left" width="40%">
+<mj-column mj-class="main-bottom__column main-bottom__column-left"
+           css-class="main-bottom__column-left"
+           width="40%">
 
   <mj-text mj-class="main-bottom__title h2">
     The best VR glasses
@@ -12,8 +14,14 @@
 
 </mj-column>
 
-<mj-column mj-class="main-bottom__column" width="60%">
+<mj-column mj-class="main-bottom__column"
+           css-class="main-bottom__column-right"
+           width="60%">
 
-  <mj-image mj-class="main-bottom__image" src="image/img-tech-vr.png" alt="VR glasses" />
+  <mj-image mj-class="main-bottom__image"
+            css-class="main-bottom__image"
+            src="https://i.postimg.cc/pdSdQcR5/img-tech-vr.png"
+            alt="VR glasses"
+            title="VR glasses" />
 
 </mj-column>

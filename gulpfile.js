@@ -8,8 +8,8 @@ const mail = require("gulp-mailing");
 
 const smtpInfo = {
   auth: {
-    user: "exampleemail@gmail.com",
-    pass: "examplepassword"
+    user: "example@gmail.com",
+    pass: "example"
   },
   host: "smtp.gmail.com",
   secureConnection: true,
@@ -112,13 +112,14 @@ gulp.task('serverTest', function() {
 /* send mail */
 
 gulp.task('mail', function () {
-  return gulp.src('build/index.html')
+  return gulp.src('build/mjml-email-tech.html')
     .pipe(mail({
-      subject: 'Example',
+      subject: 'example',
       to: [
-        'example@gmail.com'
+        'example',
+        'example'
       ],
-      from: 'Example <exampleemail@gmail.com>',
+      from: 'example <example>',
       smtp: smtpInfo
     }));
 });

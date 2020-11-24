@@ -1,6 +1,11 @@
 <mj-column>
 
-  <mj-image mj-class="header__logo" src="image/img-tech-logo.png" href="#" alt="logo" />
+  <mj-image mj-class="header__logo"
+            css-class="header__logo"
+            src="https://i.postimg.cc/fTQJgPXx/img-tech-logo.png"
+            href="#"
+            alt="techtemplate"
+            title="go to tech" />
 
   <mj-text mj-class="header__text">
     The blackfriday day is coming
@@ -8,10 +13,14 @@
 
   <mj-text mj-class="header__title h1"
            css-class="header__title">
-      <span>Black</span><span>friday</span>
+    <span>Black</span><span>friday</span>
   </mj-text>
 
-  <mj-image mj-class="header__image" src="image/img-tech-headphones-1.png" alt="headphones" />
+  <mj-image mj-class="header__image"
+            css-class="header__image"
+            src="https://i.postimg.cc/CxNB84Rb/img-tech-headphones-1.png"
+            alt="Headphones -30&#37; off"
+            title="headphones" />
 
   <mj-button mj-class="header__btn btn" href="#">This 29 november get 30&#37; off</mj-button>
 

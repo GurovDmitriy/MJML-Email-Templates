@@ -7,19 +7,16 @@
                           line-height="22px"
                           color="#ffffff" />
 
+
   <mj-wrapper             padding="0" />
-
   <mj-section             padding="10px 0" />
-
   <mj-image               padding="10px 20px" />
-
   <mj-text                padding="10px 20px" />
+
 
   <mj-button              padding="10px 20px"
                           inner-padding="10px 20px" />
 
-  <mj-class name="spacer" padding-top="45px"
-                          padding-bottom="45px" />
 
   <mj-class name="h1"     font-family="Oswald, Arial, Helvetica, sans-serif"
                           font-weight="500"
@@ -28,10 +25,12 @@
                           font-style="italic"
                           text-transform="uppercase"/>
 
+
   <mj-class name="h2"     font-size="38px"
                           line-height="46px"
                           font-weight="bold"
                           color="#000000"/>
+
 
   <mj-class name="h3"     font-size="16px"
                           line-height="24px"
@@ -39,24 +38,31 @@
                           font-style="italic"
                           text-transform="uppercase"/>
 
+
   <mj-class name="btn"    font-size="15px"
                           line-height="22px"
                           font-weight="bold"
-                          text-transform="uppercase"/>
+                          text-transform="uppercase" />
+
 
   <!-- header -->
 
-  <mj-class name="header-wrapper"        background-url="image/img-tech-bg-4.jpg"
+
+  <mj-class name="header-wrapper"        background-url="https://i.postimg.cc/VNZJGLB6/img-tech-bg-4.jpg"
                                          background-size="auto"
                                          background-position="center center"
                                          background-repeat="no-repeat"
                                          background-color="#000000" />
 
+
   <mj-class name="header"                background-color="#000000" />
+
 
   <mj-class name="header__logo"          width="128px" />
 
+
   <mj-class name="header__image"         fluid-on-mobile="true" />
+
 
   <mj-class name="header__text"          align="center"
                                          padding-bottom="0"
@@ -68,100 +74,134 @@
                                          letter-spacing="2px"
                                          text-transform="uppercase" />
 
+
   <mj-class name="header__title"         align="center"
                                          padding-top="0"
                                          padding-bottom="0" />
+
 
   <mj-class name="header__btn"           color="#fde4ac"
                                          background-color="#000000"
                                          border="2px solid #fde4ac" />
 
-  <mj-class name="header-bottom-wrapper" background-url="image/img-tech-bg-1.png"
+
+  <mj-class name="header-bottom-wrapper" background-url="https://i.postimg.cc/13PV4d39/img-tech-bg-1.png"
                                          background-size="cover"
                                          background-position="center center"
                                          background-repeat="no-repeat"
-                                         background-color="#000000" />
+                                         background-color="#000000"
+                                         padding-top="90px"
+                                         padding-bottom="0" />
+
 
   <!-- main-top -->
 
-  <mj-class name="main-top-wrapper"        background-url="image/img-tech-bg-5.jpg"
+
+  <mj-class name="main-top-wrapper"        background-url="https://i.postimg.cc/JnyG9VPQ/img-tech-bg-5.jpg"
                                            background-size="auto"
                                            background-position="center center"
                                            background-repeat="no-repeat"
                                            background-color="#fde4ac" />
+
 
   <mj-class name="main-top"                background-color="#fde4ac" />
 
 
   <mj-class name="main-top__text"          color="#9d8f69" />
 
+
   <mj-class name="main-top__btn"           align="left"
                                            background-color="#000000" />
 
-  <mj-class name="main-top__image"      fluid-on-mobile="true" />
 
-  <mj-class name="main-top-bottom-wrapper" background-url="image/img-tech-bg-3.png"
+  <mj-class name="main-top__image"         fluid-on-mobile="true" />
+
+
+  <mj-class name="main-top-bottom-wrapper" background-url="https://i.postimg.cc/W41DwJZC/img-tech-bg-3.png"
                                            background-size="cover"
                                            background-position="center center"
                                            background-repeat="no-repeat"
-                                           background-color="#fde4ac" />
+                                           background-color="#fde4ac"
+                                           padding-top="90px"
+                                           padding-bottom="0" />
+
 
   <!-- gallery -->
 
+
   <mj-class name="gallery-wrapper"  background-color="#000000" />
+
 
   <mj-class name="gallery"          background-color="#000000"
                                     padding-bottom="30px" />
 
+
   <mj-class name="gallery__image"   fluid-on-mobile="true" />
+
 
   <mj-class name="gallery__column"  padding-bottom="30px" />
 
+
   <mj-class name="gallery__caption" align="center" />
+
 
   <mj-class name="gallery__text"    align="center"
                                     color="#9a9a9a" />
 
+
   <mj-class name="gallery__btn"     background-color="#fde4ac"
                                     color="#000000" />
 
+
   <!-- main-bottom -->
 
-  <mj-class name="main-bottom-wrapper"  background-url="image/img-tech-bg-2.png"
-                                        background-size="auto"
-                                        background-position="center center"
-                                        background-repeat="no-repeat"
-                                        background-color="#fbf5e4" />
 
-  <mj-class name="main-bottom"          background-color="#fbf5e4"
-                                        padding-top="60px"
-                                        padding-bottom="0" />
-
-  <mj-class name="main-bottom__column"  vertical-align="bottom" />
-
-  <mj-class name="main-bottom__column-left"  padding-bottom="60px" />
+  <mj-class name="main-bottom-wrapper"        background-url="https://i.postimg.cc/V63dwGhP/img-tech-bg-2.png"
+                                              background-size="auto"
+                                              background-position="center center"
+                                              background-repeat="no-repeat"
+                                              background-color="#fbf5e4" />
 
 
-  <mj-class name="main-bottom__text"    color="#555555" />
+  <mj-class name="main-bottom"                background-color="#fbf5e4"
+                                              padding-top="60px"
+                                              padding-bottom="0" />
 
-  <mj-class name="main-bottom__btn"     align="left"
-                                        color="#000000"
-                                        border="2px solid #000000"
-                                        background-color="#fbf5e4" />
 
-  <mj-class name="main-bottom__image"   padding-bottom="0"
-                                        padding-left="0"
-                                        padding-right="0" />
+  <mj-class name="main-bottom__column"        vertical-align="bottom" />
+
+
+  <mj-class name="main-bottom__column-left"   padding-bottom="60px" />
+
+
+  <mj-class name="main-bottom__text"          color="#555555" />
+
+
+  <mj-class name="main-bottom__btn"           align="left"
+                                              color="#000000"
+                                              border="2px solid #000000"
+                                              background-color="#fbf5e4" />
+
+
+  <mj-class name="main-bottom__image"         padding-bottom="0"
+                                              padding-left="0"
+                                              padding-right="0" />
+
 
   <!-- footer -->
 
-  <mj-class name="footer-wrapper" background-color="#000000" />
 
-  <mj-class name="footer"         background-color="#000000" />
+  <mj-class name="footer-wrapper"    background-color="#000000" />
 
-  <mj-class name="footer__social" icon-size="32px" />
+
+  <mj-class name="footer"            background-color="#000000" />
+
+
+  <mj-class name="footer__social"    icon-size="32px" />
+
 
   <mj-class name="footer__copyright" padding="20px 20px"
                                      align="center" />
+
 
 </mj-attributes>

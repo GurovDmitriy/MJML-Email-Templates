@@ -1,6 +1,11 @@
-<mj-column mj-class="gallery__column">
+<mj-column mj-class="gallery__column"
+           css-class="gallery__column">
 
-  <mj-image mj-class="gallery__image" src="image/img-tech-product-1.png" alt="phone" />
+  <mj-image mj-class="gallery__image"
+            css-class="gallery__image"
+            src="https://i.postimg.cc/25y6ZNRf/img-tech-product-1.png"
+            alt="phone"
+            title="phone" />
 
   <mj-text mj-class="gallery__caption h3">
     Mobile
@@ -16,9 +21,14 @@
 
 </mj-column>
 
-<mj-column mj-class="gallery__column">
+<mj-column mj-class="gallery__column"
+           css-class="gallery__column">
 
-  <mj-image mj-class="gallery__image" src="image/img-tech-headphones-2.jpg" alt="headphones" />
+  <mj-image mj-class="gallery__image"
+            css-class="gallery__image"
+            src="https://i.postimg.cc/MK1j6wxP/img-tech-headphones-2.jpg"
+            alt="headphones"
+            title="headphones" />
 
   <mj-text mj-class="gallery__caption h3">
     Headphones
@@ -34,9 +44,14 @@
 
 </mj-column>
 
-<mj-column mj-class="gallery__column">
+<mj-column mj-class="gallery__column"
+           css-class="gallery__column">
 
-  <mj-image mj-class="gallery__image" src="image/img-tech-product-2.png" alt="camera" />
+  <mj-image mj-class="gallery__image"
+            css-class="gallery__image"
+            src="https://i.postimg.cc/Qd0CCxzb/img-tech-product-2.png"
+            alt="camera"
+            title="camera" />
 
   <mj-text mj-class="gallery__caption h3">
     Camera
