@@ -1,30 +1,37 @@
-<mj-column mj-class="gallery__column">
+<mj-column mj-class="gallery__column"
+           css-class="gallery__column">
 
   <mj-image mj-class="gallery__image"
+            css-class="gallery__image"
             src="image/img-cyber-lens-2.png"
             alt="lens"
             title="lens" />
 
 </mj-column>
 
-<mj-column mj-class="gallery__column">
+<mj-column mj-class="gallery__column"
+           css-class="gallery__column">
 
   <mj-image mj-class="gallery__image-neon"
+            css-class="gallery__image-neon"
             src="image/img-cyber-neon-1.png"
             alt="light"
             title="light" />
 
-  <mj-text mj-class="gallery__caption">
-    Up to 35&#37; off Camera Lens
+  <mj-text mj-class="gallery__caption h2"
+           css-class="gallery__caption h2">
+    <span>Up to 35&#37; off Camera Lens</span>
   </mj-text>
 
-  <mj-text mj-class="gallery__text">
-    Laboris nisi ut aliquip ex ea commodo
-    consequat. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit
-    anim id est laborum.
+  <mj-text mj-class="gallery__text text"
+           css-class="gallery__text text">
+    <p>Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit
+      anim id est laborum.</p>
   </mj-text>
 
-  <mj-button mj-class="gallery__btn btn">Shop Now</mj-button>
+  <mj-button mj-class="gallery__btn btn"
+             css-class="gallery__btn btn"
+             href="#">Shop Now</mj-button>
 
 </mj-column>

@@ -5,6 +5,11 @@
     <mj-title>Cyber</mj-title>
     <mj-preview>Cyber Monday &mdash; Camera Bodies, Camera Lens, Accessories</mj-preview>
 
+    <mj-breakpoint width="560px" />
+
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" />
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" />
+
     <mj-include path="mjml-include/cyber/attributes.mjml" />
 
     <mj-include path="mjml-include/cyber/style-inline.mjml" />
@@ -14,29 +19,37 @@
 
   <mj-body css-class="body" background-color="#000000">
 
-    <mj-section mj-class="header">
-      <mj-include path="mjml-include/cyber/header.mjml" />
-    </mj-section>
+    <mj-wrapper>
 
-    <mj-section mj-class="advantages">
-      <mj-include path="mjml-include/cyber/advantages.mjml" />
-    </mj-section>
+      <mj-section mj-class="header">
+        <mj-include path="mjml-include/cyber/header.mjml" />
+      </mj-section>
 
-    <mj-section mj-class="gallery gallery-top">
-      <mj-include path="mjml-include/cyber/gallery-top.mjml" />
-    </mj-section>
+      <mj-section mj-class="advantages">
+        <mj-include path="mjml-include/cyber/advantages.mjml" />
+      </mj-section>
 
-    <mj-section mj-class="gallery gallery-bottom">
-      <mj-include path="mjml-include/cyber/gallery-bottom.mjml" />
-    </mj-section>
+      <mj-section mj-class="gallery gallery-top">
+        <mj-include path="mjml-include/cyber/gallery-top.mjml" />
+      </mj-section>
 
-    <mj-section mj-class="footer">
-      <mj-include path="mjml-include/cyber/footer.mjml" />
-    </mj-section>
+      <mj-section mj-class="gallery gallery-bottom">
+        <mj-include path="mjml-include/cyber/gallery-bottom.mjml" />
+      </mj-section>
 
-    <mj-section mj-class="footer-social">
-      <mj-include path="mjml-include/cyber/footer-social.mjml" />
-    </mj-section>
+      <mj-section mj-class="carousel">
+        <mj-include path="mjml-include/cyber/carousel.mjml" />
+      </mj-section>
+
+      <mj-section mj-class="footer">
+        <mj-include path="mjml-include/cyber/footer.mjml" />
+      </mj-section>
+
+      <mj-section mj-class="footer-social">
+        <mj-include path="mjml-include/cyber/footer-social.mjml" />
+      </mj-section>
+
+    </mj-wrapper>
 
   </mj-body>
 </mjml>

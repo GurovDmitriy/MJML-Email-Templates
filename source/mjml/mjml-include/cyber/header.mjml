@@ -1,18 +1,42 @@
-<mj-column mj-class="header__column">
+<mj-column mj-class="header__column"
+           css-class="header__column">
 
   <mj-image mj-class="header__logo"
+            css-class="header__logo"
             src="image/img-cyber-logo.gif"
             href="#"
             alt="Cyber"
             title="Go to Cyber" />
 
-  <mj-text mj-class="header__text">
-    Lorem laboris nisi ut.</br>
-    Excepteur sint occaecat cupidatat</br>
-    non proident, sunt in culpa qui officia
-  </mj-text>
+  <mj-navbar mj-class="header__nav"
+             css-class="header__nav"
+             hamburger="hamburger">
+
+    <mj-navbar-link mj-class="header__nav-link h1"
+                    css-class="header__nav-link h1"
+                    href="#">
+      About
+    </mj-navbar-link>
+    <mj-navbar-link mj-class="header__nav-link h1"
+                    css-class="header__nav-link h1"
+                    href="#">
+      Sale
+    </mj-navbar-link>
+    <mj-navbar-link mj-class="header__nav-link h1"
+                    css-class="header__nav-link h1"
+                    href="#">
+      Terms
+    </mj-navbar-link>
+    <mj-navbar-link mj-class="header__nav-link h1"
+                    css-class="header__nav-link h1"
+                    href="#">
+      FAQ
+    </mj-navbar-link>
+
+  </mj-navbar>
 
   <mj-image mj-class="header__image"
+            css-class="header__image"
             src="image/img-cyber-lens-1.png"
             alt="lens"
             title="lens" />

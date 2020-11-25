@@ -1,0 +1,24 @@
+<mj-column mj-class="carousel__column"
+           css-class="carousel__column">
+
+  <mj-carousel mj-class="carousel__carousel"
+               css-class="carousel__carousel">
+
+    <mj-carousel-image mj-class="carousel__carousel-image"
+                       css-class="carousel__carousel-image"
+                       src="image/img-cyber-carousel-1.jpg"
+                       thumbnails-src="image/img-cyber-thumbnail-1.jpg" />
+
+    <mj-carousel-image mj-class="carousel__carousel-image"
+                       css-class="carousel__carousel-image"
+                       src="image/img-cyber-carousel-2.jpg"
+                       thumbnails-src="image/img-cyber-thumbnail-2.jpg" />
+
+    <mj-carousel-image mj-class="carousel__carousel-image"
+                       css-class="carousel__carousel-image"
+                       src="image/img-cyber-carousel-3.jpg"
+                       thumbnails-src="image/img-cyber-thumbnail-3.jpg" />
+
+  </mj-carousel>
+
+</mj-column>

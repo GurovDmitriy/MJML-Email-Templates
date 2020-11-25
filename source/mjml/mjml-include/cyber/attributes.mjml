@@ -1,28 +1,73 @@
 <mj-attributes>
 
-  <mj-all font-family="Arial, sans-serif"
-          font-size="14px"
-          line-height="22px"
-          color="#ffffff" />
+  <mj-all                 font-family="Roboto, Arial, sans-serif"
+                          font-size="14px"
+                          line-height="22px"
+                          color="#bbbbbb" />
+
+  <mj-wrapper             background-color="#0e0e10"
+                          border-radius="10px"
+                          padding-top="10px"
+                          padding-bottom="10px" />
+
+  <mj-section             padding-top="10px"
+                          padding-bottom="10px" />
+
+  <mj-text                padding-left="10px"
+                          padding-right="10px" />
+
+  <mj-image               padding-left="10px"
+                          padding-right="10px"
+                          padding-top="10px"
+                          padding-bottom="10px" />
+
+  <mj-class name="text"   font-family="Roboto, Arial, sans-serif"
+                          font-size="14px"
+                          line-height="22px"
+                          color="#bbbbbb" />
+
+  <mj-class name="h1"     font-family="Montserrat, Courier, sans-serif"
+                          font-size="16px"
+                          line-height="24px"
+                          text-transform="uppercase" />
+
+  <mj-class name="h2"     font-family="Montserrat, Courier, sans-serif"
+                          font-size="16px"
+                          line-height="24px"
+                          text-transform="uppercase" />
+
+  <mj-class name="h3"     font-family="Montserrat, Courier, sans-serif"
+                          font-size="12px"
+                          line-height="20px"
+                          text-transform="uppercase" />
+
+  <mj-button              background-color="#a114ba"
+                          border="none"
+                          border-radius="6px"
+                          padding="10px"
+                          inner-padding="10px 20px" />
 
 
   <!-- header -->
 
-  <mj-class name="header"        background-color="#0e0e10" />
+  <mj-class name="header"           background-color="#0e0e10" />
 
 
-  <mj-class name="header__logo"  width="450px"
-                                 padding-left="20px"
-                                 padding-right="20px" />
+  <mj-class name="header__logo"     width="450px"
+                                    padding-left="20px"
+                                    padding-right="20px" />
 
 
-  <mj-class name="header__text"  align="center"
-                                 padding-left="20px"
-                                 padding-right="20px" />
+  <mj-class name="header__nav"      ico-color="#a114ba" />
+
+  <mj-class name="header__nav-link" padding="10px 20px" />
 
 
-  <mj-class name="header__image" padding-left="0"
-                                 padding-right="0" />
+  <mj-class name="header__image"    padding-left="0"
+                                    padding-right="0" />
+
+ <mj-class name="header__nav"       ico-open="&#9868;"
+                                    ico-close="&#10006;" />
 
 
   <!-- advantages -->
@@ -30,76 +75,85 @@
 
   <mj-class name="advantages"          background-color="#0e0e10"
                                        padding-left="10px"
-                                       padding-right="10px" />
+                                       padding-right="10px"
+                                       padding-bottom="0" />
 
 
   <mj-class name="advantages__column"  inner-background-color="#000000"
                                        padding-left="10px"
                                        padding-right="10px"
-                                       padding-bottom="20px" />
+                                       padding-bottom="10px" />
 
 
-  <mj-class name="advantages__icon"   padding-left="10px"
-                                      padding-right="10px" />
+  <mj-class name="advantages__icon"    width="64px" />
 
 
-  <mj-class name="advantages__caption" align="center"
-                                       padding-left="10px"
-                                       padding-right="10px" />
+  <mj-accordion                        border="none"
+                                       icon-height="14px"
+                                       icon-width="14px"
+                                       padding="0"
+                                       icon-unwrapped-url="image/img-cyber-up-arrow.png"
+                                       icon-wrapped-url="image/img-cyber-down-arrow.png" />
+
+  <mj-accordion-title                  padding="10px" />
+
+  <mj-accordion-text                   padding="10px" />
 
 
-  <mj-class name="advantages__text"    align="center"
-                                       padding-left="10px"
-                                       padding-right="10px"/>
+  <!-- gallery -->
 
 
-  <!-- advantages -->
-
-
-  <mj-class name="gallery"             background-color="#0e0e10"
-                                       padding-left="10px"
-                                       padding-right="10px" />
-
-
-  <mj-class name="gallery__image"      width="190px"
-                                       padding-left="10px"
-                                       padding-right="10px" />
-
-  <mj-class name="gallery__image-neon" padding-left="10px"
-                                       padding-right="10px" />
-
-  <mj-class name="gallery__caption"    padding-left="10px"
-                                       padding-right="10px" />
-
-  <mj-class name="gallery__text"       padding-left="10px"
-                                       padding-right="10px" />
-
-  <mj-class name="gallery-bottom"      direction="rtl" />
-
-
-  <mj-class name="gallery-bottom__image" width="250px"
+  <mj-class name="gallery"               background-color="#0e0e10"
                                          padding-left="10px"
                                          padding-right="10px" />
 
 
-    <!-- footer -->
+  <mj-class name="gallery__image"        width="190px" />
 
 
-  <mj-class name="footer"              background-color="#0e0e10"
-                                       padding-left="10px"
-                                       padding-right="10px" />
-
-  <mj-class name="footer__column"      padding-left="10px"
-                                       padding-right="10px" />
-
-  <mj-class name="footer__logo"        padding-left="10px"
-                                       padding-right="10px" />
+  <mj-class name="gallery-bottom"        direction="rtl" />
 
 
+  <mj-class name="gallery-bottom__image" width="250px" />
 
-    <!-- footer-social -->
+
+  <!-- carousel -->
+
+  <mj-class name="carousel" background-color="#0e0e10"
+                            padding-top="20px"
+                            padding-bottom="20px"
+                            padding-right="20px"
+                            padding-left="20px" />
+
+  <mj-carousel              icon-width="20px"
+                            left-icon="image/img-cyber-left-arrow.png"
+                            right-icon="image/img-cyber-right-arrow.png"
+                            tb-width="50px"
+                            tb-hover-border-color="#a114ba"
+                            tb-selected-border-color="#a114ba"
+                            border-radius="6px"
+                            tb-border-radius="6px" />
+
+  <!-- footer -->
+
+
+  <mj-class name="footer"            background-color="#0e0e10"
+                                     padding-left="10px"
+                                     padding-right="10px" />
+
+
+  <mj-class name="footer__logo"      width="50px" />
+
+
+  <!-- footer-social -->
 
 
   <mj-class name="footer-social"       background-color="#0e0e10" />
+
+  <mj-class name="footer-social__list" icon-size="20px"
+                                       padding="0 10px"
+                                       inner-padding="10px" />
+
+  <mj-class name="footer-social__list-item" border-radius="0" />
 
 </mj-attributes>

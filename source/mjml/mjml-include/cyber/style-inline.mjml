@@ -1,7 +1,55 @@
 <mj-style inline="inline">
 
   .body {
-    min-width: 320px;
+    min-width: 320px !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+  }
+
+  span,
+  p {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .mj-accordion-ico {
+    padding: 10px !important;
+  }
+
+  .h2 span,
+  .h2 a {
+    font-family: "Montserrat", "Courier", sans-serif !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    text-transform: uppercase !important;
+  }
+
+  .h3 span,
+  .h3 a {
+    font-family: "Montserrat", "Courier", sans-serif !important;
+    font-size: 12px !important;
+    line-height: 20px !important;
+    text-transform: uppercase !important;
+  }
+
+  .text p {
+    font-family: "Montserrat", "Arial", sans-serif !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #bbbbbb !important;
+  }
+
+  .footer__menu-link a {
+    color: #bbbbbb !important;
+    text-decoration: none !important;
+  }
+
+  .footer__copyright a {
+    font-family: "Montserrat", "Arial", sans-serif !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #a114ba !important;
+    text-decoration: underline !important;
   }
 
 </mj-style>

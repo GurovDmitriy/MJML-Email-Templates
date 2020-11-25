@@ -1,26 +1,32 @@
-<mj-column mj-class="footer-social__column">
+<mj-column mj-class="footer-social__column"
+           css-class="footer-social__column">
 
-  <mj-social mj-class="footer-social__list">
+  <mj-social mj-class="footer-social__list"
+             css-class="footer-social__list">
 
     <mj-social-element mj-class="footer-social__list-item"
+                       css-class="footer-social__list-item"
                        href="#"
                        src="image/img-cyber-facebook.png"
                        alt="facebook"
                        title="facebook"></mj-social-element>
 
     <mj-social-element mj-class="footer-social__list-item"
+                       css-class="footer-social__list-item"
                        href="#"
                        src="image/img-cyber-twitter.png"
                        alt="twitter"
                        title="twitter"></mj-social-element>
 
     <mj-social-element mj-class="footer-social__list-item"
+                       css-class="footer-social__list-item"
                        href="#"
                        src="image/img-cyber-linkedin.png"
                        alt="linkedin"
                        title="linkedin"></mj-social-element>
 
     <mj-social-element mj-class="footer-social__list-item"
+                       css-class="footer-social__list-item"
                        href="#"
                        src="image/img-cyber-instagram.png"
                        alt="instagram"

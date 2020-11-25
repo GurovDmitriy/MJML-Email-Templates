@@ -1,71 +1,95 @@
-<mj-column mj-class="advantages__column">
+<mj-column mj-class="advantages__column"
+           css-class="advantages__column">
 
   <mj-image mj-class="advantages__icon"
+            css-class="advantages__icon"
             src="image/img-cyber-advantages-1.png"
-            width="65px"
-            alt="camera"
-            title="camera" />
+            alt="Camera"
+            title="Camera" />
 
-  <mj-text mj-class="advantages__caption">
-    Camera Bodies
-  </mj-text>
-
-  <mj-text mj-class="advantages__text">
-    Excepteur sint occaecat cupidatat qui laborum.
-  </mj-text>
+  <mj-accordion>
+    <mj-accordion-element>
+      <mj-accordion-title mj-class="advantages__title h3"
+                          css-class="advantages__title h3">
+        <span>Camera</span>
+      </mj-accordion-title>
+      <mj-accordion-text mj-class="advantages__text text"
+                         css-class="advantages__text text">
+        <p>Excepteur sint occaecat cupidatat qui laborum.</p>
+      </mj-accordion-text>
+    </mj-accordion-element>
+  </mj-accordion>
 
 </mj-column>
 
-<mj-column mj-class="advantages__column">
+<mj-column mj-class="advantages__column"
+           css-class="advantages__column">
 
   <mj-image mj-class="advantages__icon"
+            css-class="advantages__icon"
             src="image/img-cyber-advantages-2.png"
-            width="65px"
-            alt="camera"
-            title="camera" />
+            alt="Lens"
+            title="Lens" />
 
-  <mj-text mj-class="advantages__caption">
-    Camera Bodies
-  </mj-text>
-
-  <mj-text mj-class="advantages__text">
-    Excepteur sint occaecat cupidatat qui laborum.
-  </mj-text>
+  <mj-accordion>
+    <mj-accordion-element>
+      <mj-accordion-title mj-class="advantages__title h3"
+                          css-class="advantages__title h3">
+        <span>Lens</span>
+      </mj-accordion-title>
+      <mj-accordion-text mj-class="advantages__text text"
+                         css-class="advantages__text text">
+        <p>Excepteur sint occaecat cupidatat qui laborum.</p>
+      </mj-accordion-text>
+    </mj-accordion-element>
+  </mj-accordion>
 
 </mj-column>
 
-<mj-column mj-class="advantages__column">
+<mj-column mj-class="advantages__column"
+           css-class="advantages__column">
 
   <mj-image mj-class="advantages__icon"
+            css-class="advantages__icon"
             src="image/img-cyber-advantages-3.png"
-            width="65px"
-            alt="camera"
-            title="camera" />
+            alt="Other"
+            title="Other" />
 
-  <mj-text mj-class="advantages__caption">
-    Camera Bodies
-  </mj-text>
-
-  <mj-text mj-class="advantages__text">
-    Excepteur sint occaecat cupidatat qui laborum.
-  </mj-text>
+  <mj-accordion>
+    <mj-accordion-element>
+      <mj-accordion-title mj-class="advantages__title h3"
+                          css-class="advantages__title h3">
+        <span>Other</span>
+      </mj-accordion-title>
+      <mj-accordion-text mj-class="advantages__text text"
+                         css-class="advantages__text text">
+        <p>Excepteur sint occaecat cupidatat qui laborum.</p>
+      </mj-accordion-text>
+    </mj-accordion-element>
+  </mj-accordion>
 
 </mj-column>
 
-<mj-column mj-class="advantages__column">
+<mj-column mj-class="advantages__column"
+           css-class="advantages__column">
 
   <mj-image mj-class="advantages__icon"
+            css-class="advantages__icon"
             src="image/img-cyber-advantages-4.png"
-            width="65px"
-            alt="camera"
-            title="camera" />
+            alt="Video"
+            title="Video" />
 
-  <mj-text mj-class="advantages__caption">
-    Camera Bodies
-  </mj-text>
-
-  <mj-text mj-class="advantages__text">
-    Excepteur sint occaecat cupidatat qui laborum.
-  </mj-text>
+  <mj-accordion>
+    <mj-accordion-element>
+      <mj-accordion-title mj-class="advantages__title h3"
+                          css-class="advantages__title h3">
+        <span>Video</span>
+      </mj-accordion-title>
+      <mj-accordion-text mj-class="advantages__text text"
+                         css-class="advantages__text text">
+        <p>Excepteur sint occaecat cupidatat qui laborum.</p>
+      </mj-accordion-text>
+    </mj-accordion-element>
+  </mj-accordion>
 
 </mj-column>
