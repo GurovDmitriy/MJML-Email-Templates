@@ -1,0 +1,20 @@
+<mj-column mj-class="header__column">
+
+  <mj-image mj-class="header__logo"
+            src="image/img-cyber-logo.gif"
+            href="#"
+            alt="Cyber"
+            title="Go to Cyber" />
+
+  <mj-text mj-class="header__text">
+    Lorem laboris nisi ut.</br>
+    Excepteur sint occaecat cupidatat</br>
+    non proident, sunt in culpa qui officia
+  </mj-text>
+
+  <mj-image mj-class="header__image"
+            src="image/img-cyber-lens-1.png"
+            alt="lens"
+            title="lens" />
+
+</mj-column>

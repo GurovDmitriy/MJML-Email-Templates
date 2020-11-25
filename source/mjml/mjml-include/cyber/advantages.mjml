@@ -1,0 +1,71 @@
+<mj-column mj-class="advantages__column">
+
+  <mj-image mj-class="advantages__icon"
+            src="image/img-cyber-advantages-1.png"
+            width="65px"
+            alt="camera"
+            title="camera" />
+
+  <mj-text mj-class="advantages__caption">
+    Camera Bodies
+  </mj-text>
+
+  <mj-text mj-class="advantages__text">
+    Excepteur sint occaecat cupidatat qui laborum.
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="advantages__column">
+
+  <mj-image mj-class="advantages__icon"
+            src="image/img-cyber-advantages-2.png"
+            width="65px"
+            alt="camera"
+            title="camera" />
+
+  <mj-text mj-class="advantages__caption">
+    Camera Bodies
+  </mj-text>
+
+  <mj-text mj-class="advantages__text">
+    Excepteur sint occaecat cupidatat qui laborum.
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="advantages__column">
+
+  <mj-image mj-class="advantages__icon"
+            src="image/img-cyber-advantages-3.png"
+            width="65px"
+            alt="camera"
+            title="camera" />
+
+  <mj-text mj-class="advantages__caption">
+    Camera Bodies
+  </mj-text>
+
+  <mj-text mj-class="advantages__text">
+    Excepteur sint occaecat cupidatat qui laborum.
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="advantages__column">
+
+  <mj-image mj-class="advantages__icon"
+            src="image/img-cyber-advantages-4.png"
+            width="65px"
+            alt="camera"
+            title="camera" />
+
+  <mj-text mj-class="advantages__caption">
+    Camera Bodies
+  </mj-text>
+
+  <mj-text mj-class="advantages__text">
+    Excepteur sint occaecat cupidatat qui laborum.
+  </mj-text>
+
+</mj-column>

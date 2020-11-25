@@ -1,0 +1,46 @@
+<mj-column mj-class="footer__column"
+           width="25%">
+
+  <mj-image mj-class="footer__logo"
+            src="image/img-cyber-logo-footer.png"
+            alt="Cyber"
+            title="Cyber" />
+
+</mj-column>
+
+<mj-column mj-class="footer__column"
+           width="25%">
+
+  <mj-text>
+    <a href="#">About Us</a>
+  </mj-text>
+  <mj-text>
+    <a href="#">Sale</a>
+  </mj-text>
+  <mj-text>
+    <a href="#">Terms</a>
+  </mj-text>
+  <mj-text>
+    <a href="#">FAQ</a>
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="footer__column"
+           width="50%">
+
+  <mj-text mj-class="footer__caption">
+    Where to find us
+  </mj-text>
+
+  <mj-text mj-class="footer__text">
+    Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit
+    anim id est laborum.
+  </mj-text>
+
+  <mj-text mj-class="footer__tel">
+    <a href="tel:+100055008800">+100055008800</a>
+  </mj-text>
+
+</mj-column>
