@@ -3,7 +3,7 @@
 
   <mj-image mj-class="header__logo"
             css-class="header__logo"
-            src="image/img-cyber-logo.gif"
+            src="https://i.postimg.cc/vmj2gL07/img-cyber-logo.gif"
             href="#"
             alt="Cyber"
             title="Go to Cyber" />
@@ -37,7 +37,7 @@
 
   <mj-image mj-class="header__image"
             css-class="header__image"
-            src="image/img-cyber-lens-1.png"
+            src="https://i.postimg.cc/vT70KRbX/img-cyber-lens-1.png"
             alt="lens"
             title="lens" />
 

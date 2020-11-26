@@ -2,12 +2,14 @@
            css-class="main-bottom__column-left"
            width="40%">
 
-  <mj-text mj-class="main-bottom__title h2">
-    The best VR glasses
+  <mj-text mj-class="main-bottom__title h2"
+           css-class="main-bottom__title h2">
+    <span>The best VR glasses</span>
   </mj-text>
 
-  <mj-text mj-class="main-bottom__text">
-    Duis aute culpa qui officia deserunt mollit anim id est laborum.
+  <mj-text mj-class="main-bottom__text text"
+           css-class="main-bottom__text text">
+    <p>Duis aute culpa qui officia deserunt mollit anim id est laborum.</p>
   </mj-text>
 
   <mj-button mj-class="main-bottom__btn btn" href="#">Get 30&#37; off</mj-button>

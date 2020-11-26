@@ -92,8 +92,8 @@
                                        icon-height="14px"
                                        icon-width="14px"
                                        padding="0"
-                                       icon-unwrapped-url="image/img-cyber-up-arrow.png"
-                                       icon-wrapped-url="image/img-cyber-down-arrow.png" />
+                                       icon-unwrapped-url="https://i.postimg.cc/PqBKrfq2/img-cyber-up-arrow.png"
+                                       icon-wrapped-url="https://i.postimg.cc/j5p19QNq/img-cyber-down-arrow.png" />
 
   <mj-accordion-title                  padding="10px" />
 
@@ -126,8 +126,8 @@
                             padding-left="20px" />
 
   <mj-carousel              icon-width="20px"
-                            left-icon="image/img-cyber-left-arrow.png"
-                            right-icon="image/img-cyber-right-arrow.png"
+                            left-icon="https://i.postimg.cc/jSxFGjWf/img-cyber-left-arrow.png"
+                            right-icon="https://i.postimg.cc/Pf1VJDYZ/img-cyber-right-arrow.png"
                             tb-width="50px"
                             tb-hover-border-color="#a114ba"
                             tb-selected-border-color="#a114ba"

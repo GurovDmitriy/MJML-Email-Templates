@@ -7,8 +7,9 @@
             alt="techtemplate"
             title="go to tech" />
 
-  <mj-text mj-class="header__text">
-    The blackfriday day is coming
+  <mj-text mj-class="header__text text"
+           css-class="header__text text">
+    <p>The blackfriday day is coming</p>
   </mj-text>
 
   <mj-text mj-class="header__title h1"

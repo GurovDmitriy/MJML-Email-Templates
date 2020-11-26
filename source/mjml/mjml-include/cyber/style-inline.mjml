@@ -1,5 +1,32 @@
 <mj-style inline="inline">
 
+  body {
+    margin: 0;
+    padding: 0;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+
+  table,
+  td {
+    border-collapse: collapse;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+  }
+
+  img {
+    border: 0;
+    height: auto;
+    line-height: 100%;
+    outline: none;
+    text-decoration: none;
+    -ms-interpolation-mode: bicubic;
+  }
+
+  p {
+    display: block;
+  }
+
   .body {
     min-width: 320px !important;
     padding-top: 20px !important;
@@ -50,6 +77,53 @@
     line-height: 22px !important;
     color: #a114ba !important;
     text-decoration: underline !important;
+  }
+
+  .header__logo img,
+  .header__image img,
+  .gallery__image img,
+  .gallery__image-neon img  {
+    font-family: "Arial", sans-serif !important;
+    font-size: 30px !important;
+    line-height: 30px !important;
+    text-align: center;
+    color: #bbbbbb !important;
+  }
+
+  .header__logo a {
+    text-decoration: none !important;
+  }
+
+  .advantages__icon img,
+  .carousel__carousel-image img,
+  .carousel__carousel-image-thumbnail img,
+  .footer__logo img {
+    font-family: "Arial", sans-serif !important;
+    font-size: 10px !important;
+    line-height: 10px !important;
+    text-align: center;
+    color: #bbbbbb !important;
+  }
+
+  .footer__column-25 {
+    width: 140px !important;
+  }
+
+  .footer__group-75 {
+    width: 300px !important;
+  }
+
+  .footer__column-menu {
+    width: 75px !important;
+  }
+
+  .footer__column-about {
+    width: 225px !important;
+  }
+
+  .advantages__group,
+  .gallery__column {
+    width: 290px !important;
   }
 
 </mj-style>

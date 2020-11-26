@@ -3,7 +3,7 @@
 
   <mj-image mj-class="gallery__image gallery-bottom__image"
             css-class="gallery__image gallery-bottom__image"
-            src="image/img-cyber-camera.png"
+            src="https://i.postimg.cc/15cdCFzP/img-cyber-camera.png"
             alt="camera"
             title="camera" />
 
@@ -14,7 +14,7 @@
 
   <mj-image mj-class="gallery__image-neon"
             css-class="gallery__image-neon"
-            src="image/img-cyber-neon-1.png"
+            src="https://i.postimg.cc/HxyZQcNq/img-cyber-neon-1.png"
             alt="light"
             title="light" />
 

@@ -1,95 +1,111 @@
-<mj-column mj-class="advantages__column"
-           css-class="advantages__column">
+<mj-group mj-class="advantages__group"
+           css-class="advantages__group"
+           width="50%">
 
-  <mj-image mj-class="advantages__icon"
-            css-class="advantages__icon"
-            src="image/img-cyber-advantages-1.png"
-            alt="Camera"
-            title="Camera" />
+  <mj-column mj-class="advantages__column"
+             css-class="advantages__column"
+             width="50%">
 
-  <mj-accordion>
-    <mj-accordion-element>
-      <mj-accordion-title mj-class="advantages__title h3"
-                          css-class="advantages__title h3">
-        <span>Camera</span>
-      </mj-accordion-title>
-      <mj-accordion-text mj-class="advantages__text text"
-                         css-class="advantages__text text">
-        <p>Excepteur sint occaecat cupidatat qui laborum.</p>
-      </mj-accordion-text>
-    </mj-accordion-element>
-  </mj-accordion>
+    <mj-image mj-class="advantages__icon"
+              css-class="advantages__icon"
+              src="https://i.postimg.cc/mgBvBwnt/img-cyber-advantages-1.png"
+              alt="Camera"
+              title="Camera" />
 
-</mj-column>
+    <mj-accordion>
+      <mj-accordion-element>
+        <mj-accordion-title mj-class="advantages__title h3"
+                            css-class="advantages__title h3">
+          <span>Camera</span>
+        </mj-accordion-title>
+        <mj-accordion-text mj-class="advantages__text text"
+                           css-class="advantages__text text">
+          <p>Excepteur sint occaecat cupidatat qui laborum.</p>
+        </mj-accordion-text>
+      </mj-accordion-element>
+    </mj-accordion>
 
-<mj-column mj-class="advantages__column"
-           css-class="advantages__column">
+  </mj-column>
 
-  <mj-image mj-class="advantages__icon"
-            css-class="advantages__icon"
-            src="image/img-cyber-advantages-2.png"
-            alt="Lens"
-            title="Lens" />
+  <mj-column mj-class="advantages__column"
+             css-class="advantages__column"
+             width="50%">
 
-  <mj-accordion>
-    <mj-accordion-element>
-      <mj-accordion-title mj-class="advantages__title h3"
-                          css-class="advantages__title h3">
-        <span>Lens</span>
-      </mj-accordion-title>
-      <mj-accordion-text mj-class="advantages__text text"
-                         css-class="advantages__text text">
-        <p>Excepteur sint occaecat cupidatat qui laborum.</p>
-      </mj-accordion-text>
-    </mj-accordion-element>
-  </mj-accordion>
+    <mj-image mj-class="advantages__icon"
+              css-class="advantages__icon"
+              src="https://i.postimg.cc/YSyZNwCW/img-cyber-advantages-2.png"
+              alt="Lens"
+              title="Lens" />
 
-</mj-column>
+    <mj-accordion>
+      <mj-accordion-element>
+        <mj-accordion-title mj-class="advantages__title h3"
+                            css-class="advantages__title h3">
+          <span>Lens</span>
+        </mj-accordion-title>
+        <mj-accordion-text mj-class="advantages__text text"
+                           css-class="advantages__text text">
+          <p>Excepteur sint occaecat cupidatat qui laborum.</p>
+        </mj-accordion-text>
+      </mj-accordion-element>
+    </mj-accordion>
 
-<mj-column mj-class="advantages__column"
-           css-class="advantages__column">
+  </mj-column>
 
-  <mj-image mj-class="advantages__icon"
-            css-class="advantages__icon"
-            src="image/img-cyber-advantages-3.png"
-            alt="Other"
-            title="Other" />
+</mj-group>
 
-  <mj-accordion>
-    <mj-accordion-element>
-      <mj-accordion-title mj-class="advantages__title h3"
-                          css-class="advantages__title h3">
-        <span>Other</span>
-      </mj-accordion-title>
-      <mj-accordion-text mj-class="advantages__text text"
-                         css-class="advantages__text text">
-        <p>Excepteur sint occaecat cupidatat qui laborum.</p>
-      </mj-accordion-text>
-    </mj-accordion-element>
-  </mj-accordion>
+<mj-group mj-class="advantages__group"
+          css-class="advantages__group"
+          width="50%">
 
-</mj-column>
+  <mj-column mj-class="advantages__column"
+             css-class="advantages__column"
+             width="50%">
 
-<mj-column mj-class="advantages__column"
-           css-class="advantages__column">
+    <mj-image mj-class="advantages__icon"
+              css-class="advantages__icon"
+              src="https://i.postimg.cc/Mp5hTBkt/img-cyber-advantages-3.png"
+              alt="Other"
+              title="Other" />
 
-  <mj-image mj-class="advantages__icon"
-            css-class="advantages__icon"
-            src="image/img-cyber-advantages-4.png"
-            alt="Video"
-            title="Video" />
+    <mj-accordion>
+      <mj-accordion-element>
+        <mj-accordion-title mj-class="advantages__title h3"
+                            css-class="advantages__title h3">
+          <span>Other</span>
+        </mj-accordion-title>
+        <mj-accordion-text mj-class="advantages__text text"
+                           css-class="advantages__text text">
+          <p>Excepteur sint occaecat cupidatat qui laborum.</p>
+        </mj-accordion-text>
+      </mj-accordion-element>
+    </mj-accordion>
 
-  <mj-accordion>
-    <mj-accordion-element>
-      <mj-accordion-title mj-class="advantages__title h3"
-                          css-class="advantages__title h3">
-        <span>Video</span>
-      </mj-accordion-title>
-      <mj-accordion-text mj-class="advantages__text text"
-                         css-class="advantages__text text">
-        <p>Excepteur sint occaecat cupidatat qui laborum.</p>
-      </mj-accordion-text>
-    </mj-accordion-element>
-  </mj-accordion>
+  </mj-column>
 
-</mj-column>
+  <mj-column mj-class="advantages__column"
+             css-class="advantages__column"
+             width="50%">
+
+    <mj-image mj-class="advantages__icon"
+              css-class="advantages__icon"
+              src="https://i.postimg.cc/yNN2SNsK/img-cyber-advantages-4.png"
+              alt="Video"
+              title="Video" />
+
+    <mj-accordion>
+      <mj-accordion-element>
+        <mj-accordion-title mj-class="advantages__title h3"
+                            css-class="advantages__title h3">
+          <span>Video</span>
+        </mj-accordion-title>
+        <mj-accordion-text mj-class="advantages__text text"
+                           css-class="advantages__text text">
+          <p>Excepteur sint occaecat cupidatat qui laborum.</p>
+        </mj-accordion-text>
+      </mj-accordion-element>
+    </mj-accordion>
+
+  </mj-column>
+
+</mj-group>

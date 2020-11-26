@@ -1,3 +1,23 @@
 <mj-style>
 
+  @media only screen and (max-width: 559px) {
+    .advantages__group,
+    .gallery__column,
+    .footer__column-25,
+    .footer__group-75 {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+
+    .footer__column-menu {
+      width: 25% !important;
+      max-width: 25% !important;
+    }
+
+    .footer__column-about {
+      width: 75% !important;
+      max-width: 75% !important;
+    }
+  }
+
 </mj-style>

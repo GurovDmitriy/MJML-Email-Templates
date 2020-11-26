@@ -7,14 +7,16 @@
             alt="phone"
             title="phone" />
 
-  <mj-text mj-class="gallery__caption h3">
-    Mobile
+  <mj-text mj-class="gallery__caption h3"
+           css-class="gallery__caption h3">
+    <span>Mobile</span>
   </mj-text>
 
-  <mj-text mj-class="gallery__text">
-    Duis sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt
-    mollit anim id est laborum.
+  <mj-text mj-class="gallery__text text"
+           css-class="gallery__text text">
+    <p>Duis sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
   </mj-text>
 
   <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>
@@ -30,14 +32,16 @@
             alt="headphones"
             title="headphones" />
 
-  <mj-text mj-class="gallery__caption h3">
-    Headphones
+  <mj-text mj-class="gallery__caption h3"
+           css-class="gallery__caption h3">
+    <span>Headphones</span>
   </mj-text>
 
-  <mj-text mj-class="gallery__text">
-    Duis sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt
-    mollit anim id est laborum.
+  <mj-text mj-class="gallery__text text"
+           css-class="gallery__text text">
+    <p>Duis sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
   </mj-text>
 
   <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>
@@ -53,14 +57,16 @@
             alt="camera"
             title="camera" />
 
-  <mj-text mj-class="gallery__caption h3">
-    Camera
+  <mj-text mj-class="gallery__caption h3"
+           css-class="gallery__caption h3">
+    <span>Camera</span>
   </mj-text>
 
-  <mj-text mj-class="gallery__text">
-    Duis sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt
-    mollit anim id est laborum.
+  <mj-text mj-class="gallery__text text"
+           css-class="gallery__text text">
+    <p>Duis sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
   </mj-text>
 
   <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>

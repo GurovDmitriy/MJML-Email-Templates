@@ -1,31 +1,19 @@
 <mj-style>
 
-  @media only screen and (max-width: 480px) {
+@media only screen and (max-width: 479px) {
 
   .main-top__column-left,
-  .main-bottom__column-left {
-    width: 100% !important;
-    max-width: 100% !important;
-  }
-
+  .main-bottom__column-left,
   .main-top__column-right,
-  .main-bottom__column-right {
+  .main-bottom__column-right,
+  .gallery__column,
+  .footer__column  {
     width: 100% !important;
     max-width: 100% !important;
   }
+}
 
-  .gallery__column {
-      width: 100% !important;
-      max-width: 100% !important;
-    }
-
-  .footer__column {
-      width: 100% !important;
-      max-width: 100% !important;
-    }
-  }
-
-  @media only screen and (min-width: 480px) {
+@media only screen and (min-width: 480px) {
 
   .main-top__column-left,
   .main-bottom__column-left {

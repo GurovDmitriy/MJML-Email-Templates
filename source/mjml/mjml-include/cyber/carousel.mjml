@@ -6,18 +6,24 @@
 
     <mj-carousel-image mj-class="carousel__carousel-image"
                        css-class="carousel__carousel-image"
-                       src="image/img-cyber-carousel-1.jpg"
-                       thumbnails-src="image/img-cyber-thumbnail-1.jpg" />
+                       src="https://i.postimg.cc/Qt9P0nFn/img-cyber-carousel-1.jpg"
+                       thumbnails-src="https://i.postimg.cc/rFcnrpNH/img-cyber-thumbnail-1.jpg"
+                       alt="Camera"
+                       title="Camera" />
 
     <mj-carousel-image mj-class="carousel__carousel-image"
                        css-class="carousel__carousel-image"
-                       src="image/img-cyber-carousel-2.jpg"
-                       thumbnails-src="image/img-cyber-thumbnail-2.jpg" />
+                       src="https://i.postimg.cc/wxNZNZ81/img-cyber-carousel-2.jpg"
+                       thumbnails-src="https://i.postimg.cc/y88LLr5X/img-cyber-thumbnail-2.jpg"
+                       alt="Lens"
+                       title="Lens" />
 
     <mj-carousel-image mj-class="carousel__carousel-image"
                        css-class="carousel__carousel-image"
-                       src="image/img-cyber-carousel-3.jpg"
-                       thumbnails-src="image/img-cyber-thumbnail-3.jpg" />
+                       src="https://i.postimg.cc/Zn6QhBF8/img-cyber-carousel-3.jpg"
+                       thumbnails-src="https://i.postimg.cc/28wHFfHS/img-cyber-thumbnail-3.jpg"
+                       alt="Camera"
+                       title="Camera" />
 
   </mj-carousel>
 

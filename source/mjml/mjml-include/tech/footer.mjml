@@ -36,7 +36,7 @@
 
   <mj-text mj-class="footer__copyright"
            css-class="footer__copyright">
-    Template created by <a href="https://www.typenote.io/" target="_blank">typenote.io</a>
+    <p>Template created by <a href="https://www.typenote.io/" target="_blank">typenote.io</a></p>
   </mj-text>
 
 </mj-column>

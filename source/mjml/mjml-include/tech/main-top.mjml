@@ -2,12 +2,14 @@
            css-class="main-top__column-left"
            width="40%">
 
-  <mj-text mj-class="main-top__title h2">
-    You feel the power of tech
+  <mj-text mj-class="main-top__title h2"
+           css-class="main-top__title h2">
+    <span>You feel the power of tech</span>
   </mj-text>
 
-  <mj-text mj-class="main-top__text">
-    Excepteur sint occaecat cupidatat anim id est laborum.
+  <mj-text mj-class="main-top__text text"
+           css-class="main-top__text text">
+    <p>Excepteur sint occaecat cupidatat anim id est laborum.</p>
   </mj-text>
 
   <mj-button mj-class="main-top__btn btn"
