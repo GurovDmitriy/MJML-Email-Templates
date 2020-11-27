@@ -1,47 +1,58 @@
-<mj-column mj-class="advantages__column"
-           css-class="advantages__column">
+<mj-group mj-class="advantages__group"
+          css-class="advantages__group">
 
-  <mj-image mj-class="advantages__image"
-            css-class="advantages__image"
-            src="https://i.postimg.cc/d02mnfBm/img-guitar-delivery.png"
-            alt="Delivery"
-            title="Delivery" />
+  <mj-column mj-class="advantages__column"
+             css-class="advantages__column">
 
-  <mj-text mj-class="advantages__caption"
-           css-class="advantages__caption">
-    <span>Free delivery &#36;30 &minus;</span>
-  </mj-text>
+    <mj-image mj-class="advantages__image"
+              css-class="advantages__image advantages__image-1"
+              src="https://i.postimg.cc/Kz8JdnfW/img-guitar-delivery.png"
+              alt="Delivery"
+              title="Delivery"
+              width="40px"
+              height="40px" />
 
-</mj-column>
+    <mj-text mj-class="advantages__caption"
+             css-class="advantages__caption">
+      <span>Free delivery</span>
+    </mj-text>
 
-<mj-column mj-class="advantages__column"
-           css-class="advantages__column">
+  </mj-column>
 
-  <mj-image mj-class="advantages__image"
-            css-class="advantages__image"
-            src="https://i.postimg.cc/j2m7R6cS/img-guitar-students.png"
-            alt="Delivery"
-            title="Delivery" />
+  <mj-column mj-class="advantages__column"
+             css-class="advantages__column">
 
-  <mj-text mj-class="advantages__caption"
-           css-class="advantages__caption">
-    <span>Students 10&#37; off</span>
-  </mj-text>
+    <mj-image mj-class="advantages__image"
+              css-class="advantages__image advantages__image-2"
+              src="https://i.postimg.cc/V6ZD1dHk/img-guitar-returns.png"
+              alt="Delivery"
+              title="Delivery"
+              width="40px"
+              height="40px" />
 
-</mj-column>
+    <mj-text mj-class="advantages__caption"
+             css-class="advantages__caption">
+      <span>Students 10&#37; off</span>
+    </mj-text>
 
-<mj-column mj-class="advantages__column"
-           css-class="advantages__column">
+  </mj-column>
 
-  <mj-image mj-class="advantages__image"
-            css-class="advantages__image"
-            src="https://i.postimg.cc/sgSpDLtd/img-guitar-returns.png"
-            alt="Delivery"
-            title="Delivery" />
+  <mj-column mj-class="advantages__column"
+             css-class="advantages__column">
 
-  <mj-text mj-class="advantages__caption"
-           css-class="advantages__caption">
-    <span>Free returns</span>
-  </mj-text>
+    <mj-image mj-class="advantages__image"
+              css-class="advantages__image advantages__image-3"
+              src="https://i.postimg.cc/zvLpf89S/img-guitar-students.png"
+              alt="Delivery"
+              title="Delivery"
+              width="40px"
+              height="40px" />
 
-</mj-column>
+    <mj-text mj-class="advantages__caption"
+             css-class="advantages__caption">
+      <span>Free returns</span>
+    </mj-text>
+
+  </mj-column>
+
+</mj-group>

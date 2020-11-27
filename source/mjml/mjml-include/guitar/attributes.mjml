@@ -1,7 +1,214 @@
 <mj-attributes>
 
-  <mj-all font-family="Verdana, Geneva, sans-serif"
-          font-size="14px"
-          line-height="22px" />
+  <mj-all                font-family="Verdana, Geneva, sans-serif"
+                         font-size="14px"
+                         line-height="22px"
+                         font-weight="400"
+                         font-style="normal"
+                         color="#202020" />
+
+  <mj-wrapper            padding="0"
+                         background-url="https://i.postimg.cc/QxjGskrd/img-guitar-main-bg.jpg"
+                         background-size="50%"
+                         background-repeat="no-repeat"
+                         background-position="left bottom"
+                         background-color="#202020" />
+
+  <mj-section            padding="10px 0" />
+
+  <mj-image              padding="10px 20px" />
+
+  <mj-text               padding="10px 20px" />
+
+  <mj-button             padding="10px 10px"
+                         inner-padding="10px 20px"
+                         border="none"
+                         border-radius="0" />
+
+  <mj-class name="title" font-size="46px"
+                         line-height="46px"
+                         font-weight="700"
+                         text-transform="uppercase"
+                         color="#d6383d" />
+
+  <mj-class name="h1"    font-size="38px"
+                         line-height="38px"
+                         text-transform="uppercase" />
+
+  <mj-class name="h2"    padding="4px 20px"
+                         font-size="22px"
+                         line-height="34px"
+                         font-weight="700"
+                         text-transform="uppercase" />
+
+  <mj-class name="h3"    padding="5px 20px"
+                         font-size="18px"
+                         line-height="28px"
+                         font-weight="700" />
+
+  <mj-class name="btn"   background-color="#202020"
+                         font-size="16px"
+                         line-height="26px"
+                         font-weight="700"
+                         text-transform="uppercase"
+                         color="#efefef" />
+
+
+
+  <mj-class name="separator"        background-color="#efefef" />
+
+  <mj-class name="separator__image" padding-left="0"
+                                    padding-right="0" />
+
+  <mj-class name="delimiter"        background-color="#efefef" />
+
+
+
+  <!-- header -->
+
+
+
+  <mj-class name="header"          background-color="#dfdfdf"
+                                   padding-bottom="0" />
+
+  <mj-class name="header__caption" align="center"
+                                   padding-bottom="0" />
+
+  <mj-class name="header__title"   align="center"
+                                   padding-top="0" />
+
+  <mj-class name="header__image"   padding-top="10px"
+                                   padding-bottom="0"
+                                   padding-left="0"
+                                   padding-right="0" />
+
+
+
+  <!-- main -->
+
+
+
+  <mj-class name="main"          background-color="#d6383d"
+                                 padding="0" />
+
+  <mj-class name="main__column"  vertical-align="middle" />
+
+  <mj-class name="main__image"   padding="0"
+                                 fluid-on-mobile="true" />
+
+  <mj-class name="main__caption" align="center"
+                                 color="#efefef" />
+
+  <mj-class name="main__text"    padding="5px 20px"
+                                 align="center"
+                                 font-size="18px"
+                                 line-height="28px"
+                                 font-weight="700"
+                                 color="#efefef" />
+
+  <mj-class name="main-middle"   direction="rtl" />
+
+
+
+  <!-- shop -->
+
+
+
+  <mj-class name="shop-title"          background-color="#efefef"
+                                       padding-bottom="0" />
+
+  <mj-class name="shop"                background-color="#efefef" />
+
+  <mj-class name="shop__column"        vertical-align="middle" />
+
+  <mj-class name="shop__image"         padding="0"
+                                       fluid-on-mobile="true" />
+
+  <mj-class name="shop-title__caption" align="center" />
+
+  <mj-class name="shop__sale"          padding="6px 20px"
+                                       align="center"
+                                       color="#d6383d"
+                                       font-weight="700"
+                                       text-transform="uppercase" />
+
+  <mj-class name="shop__caption"       align="center" />
+
+  <mj-class name="shop__price"         padding="6px 20px"
+                                       align="center" />
+
+
+
+  <!-- category -->
+
+
+
+  <mj-class name="category-title"          padding-bottom="0"
+                                           background-color="#efefef" />
+
+  <mj-class name="category-title__column"  background-color="#202020" />
+
+  <mj-class name="category-title__caption" align="center"
+                                           padding-top="14px"
+                                           padding-bottom="0"
+                                           color="#efefef" />
+
+  <mj-class name="category"                background-color="#202020"
+                                           padding-top="4px"
+                                           padding-bottom="30px"
+                                           padding-left="10px"
+                                           padding-right="10px" />
+
+  <mj-class name="category__btn"           padding="10px 10px"
+                                           border-radius="0"
+                                           border="1px solid #efefef"
+                                           background-color="#202020"
+                                           font-weight="700"
+                                           color="#efefef" />
+
+
+
+  <!-- advantages -->
+
+
+
+  <mj-class name="advantages"          padding-top="0"
+                                       padding-left="10px"
+                                       padding-right="10px"
+                                       padding-bottom="4px"
+                                       background-color="#efefef" />
+
+  <mj-class name="advantages__image"   padding="10px 10px" />
+
+  <mj-class name="advantages__caption" align="center"
+                                       padding-top="14px"
+                                       padding-left="10px"
+                                       padding-right="10px"
+                                       font-size="12px"
+                                       line-height="20px"
+                                       font-weight="700"
+                                       text-transform="uppercase" />
+
+  <!-- footer -->
+
+  <mj-class name="footer"              background-color="#efefef" />
+
+  <mj-class name="footer__column"      vertical-align="middle" />
+
+  <mj-class name="footer__logo"        align="left" />
+
+  <mj-class name="footer__social"      align="right"
+                                       icon-size="32px"
+                                       inner-padding="5px"
+                                       padding-top="5px"
+                                       padding-bottom="5px" />
+
+  <!-- copyright -->
+
+  <mj-class name="copyright"           background-color="#efefef" />
+
+  <mj-class name="copyright__text"     font-size="12px"
+                                       line-height="20px"
+                                       color="#7b7b7b" />
 
 </mj-attributes>

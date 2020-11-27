@@ -14,7 +14,7 @@
 
   <mj-image mj-class="shop__image-shop"
             css-class="shop__image-shop"
-            src="https://i.postimg.cc/nrPvCfFZ/img-guitar-guitar.png"
+            src="https://i.postimg.cc/k5w15jhs/img-guitar-guitar.png"
             alt="Guitar Electric"
             title="Guitar Electric"
             width="180px" />
@@ -24,8 +24,8 @@
     <span>20&#37; off</span>
   </mj-text>
 
-  <mj-text mj-class="shop__caption"
-           css-class="shop__caption">
+  <mj-text mj-class="shop__caption h3"
+           css-class="shop__caption h3">
     <span>Electric Guitar One</span>
   </mj-text>
 

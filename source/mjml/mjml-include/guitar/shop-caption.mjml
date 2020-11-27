@@ -1,9 +1,0 @@
-<mj-column mj-class="shop-caption__column"
-           css-class="shop-caption__column">
-
-  <mj-text mj-class="shop-caption__caption"
-           css-class="shop-caption__caption">
-    <span>Best Discounts</span>
-  </mj-text>
-
-</mj-column>

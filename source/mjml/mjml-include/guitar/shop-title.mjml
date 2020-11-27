@@ -1,0 +1,9 @@
+<mj-column mj-class="shop-title__column"
+           css-class="shop-title__column">
+
+  <mj-text mj-class="shop-title__caption h2"
+           css-class="shop-title__caption h2">
+    <span>Best Discounts</span>
+  </mj-text>
+
+</mj-column>

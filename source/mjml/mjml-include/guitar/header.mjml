@@ -1,19 +1,21 @@
 <mj-column mj-class="header-column"
            css-class="header-column">
 
-  <mj-image mj-class="header__logo"
-            css-class="header__logo"
-            src="https://i.postimg.cc/j5R61h3V/img-guitar-logo.png"
+  <mj-image mj-class="header__logo logo"
+            css-class="header__logo logo"
+            src="https://i.postimg.cc/TYW4cJp2/img-guitar-logo.png"
             href="#"
             alt="GuitarLogo"
             title="Go to Guitar"
             width="120px" />
 
-  <mj-text mj-class="header__caption">
+  <mj-text mj-class="header__caption h1"
+           css-class="header__caption h1">
     <span>Labor day</span>
   </mj-text>
 
-  <mj-text mj-class="header__title">
+  <mj-text mj-class="header__title title"
+           css-class="header__title title">
     <span>Weekend sale<span>
   </mj-text>
 

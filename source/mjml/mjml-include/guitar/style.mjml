@@ -1,3 +1,33 @@
 <mj-style>
 
+@media only screen and (max-width: 479px) {
+
+  .main__column,
+  .shop__column {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .category__column {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+}
+
+@media only screen and (min-width: 480px) {
+
+  .main__column,
+  .shop__column {
+    width: 50% !important;
+    max-width: 50% !important;
+  }
+
+  .category__column {
+    width: 193px !important;
+    max-width: 193px !important;
+  }
+
+}
+
 </mj-style>

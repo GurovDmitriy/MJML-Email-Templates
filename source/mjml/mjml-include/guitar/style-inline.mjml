@@ -1,4 +1,4 @@
-<mj-style>
+<mj-style inline="inline">
 
 body {
   margin: 0;
@@ -35,6 +35,91 @@ p {
 
 .body {
   min-width: 320px !important;
+}
+
+.wrapper {
+  padding: 0;
+  background-image: url("https://i.postimg.cc/QxjGskrd/img-guitar-main-bg.jpg");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-color: #202020;
+}
+
+.logo a,
+.footer__social a {
+  color: #202020 !important;
+}
+
+.logo img,
+.header__image img,
+.separator__image img,
+.shop__image img,
+.shop__image-shop img {
+  font-family: "Verdana", "Geneva", sans-serif !important;
+  font-size: 14px !important;
+  line-height: 22px !important;
+  text-align: center !important;
+  color: #202020 !important;
+}
+
+.main__image img {
+  font-family: "Verdana", "Geneva", sans-serif !important;
+  font-size: 22px !important;
+  line-height: 34px !important;
+  text-align: center !important;
+  color: #efefef !important;
+}
+
+.advantages__image img,
+.footer__social img {
+  font-family: "Verdana", "Geneva", sans-serif !important;
+  font-size: 10px !important;
+  line-height: 10px !important;
+  text-align: center !important;
+  color: #202020 !important;
+}
+
+.shop__price-value {
+  font-size: 18px !important;
+  line-height: 28px !important;
+  font-weight: 700 !important;
+  color: #d6383d !important;
+}
+
+td.category__btn > table {
+  width: 100% !important;
+}
+
+.advantages__image-1 {
+  border-right: 1px solid #efefef !important;
+  border-left: 1px solid #efefef !important;
+}
+
+.advantages__image-2 {
+  border-right: 1px solid #202020 !important;
+  border-left: 1px solid #202020 !important;
+}
+
+.advantages__image-3 {
+  border-right: 1px solid #efefef !important;
+  border-left: 1px solid #efefef !important;
+}
+
+.copyright__text a {
+  font-family: "Verdana", "Geneva", sans-serif;
+  font-size: 12px !important;
+  line-height: 20px !important;
+  color: #7b7b7b !important;
+}
+
+.main__column,
+.shop__column {
+  width: 300px !important;
+}
+
+.category__column {
+  width: 193px !important;
 }
 
 </mj-style>

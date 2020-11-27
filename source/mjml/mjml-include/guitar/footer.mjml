@@ -1,37 +1,44 @@
-<mj-column mj-class="footer__column"
-           css-class="footer__column">
+<mj-group mj-class="footer-group"
+          css-class="footer-group">
 
-  <mj-image mj-class="footer__logo"
-            css-class="footer__logo"
-            src="https://i.postimg.cc/j5R61h3V/img-guitar-logo.png"
-            href="#"
-            alt="GuitarLogo"
-            title="Go To Guitar"
-            width="120px" />
+  <mj-column mj-class="footer__column"
+             css-class="footer__column"
+             width="45%">
 
-</mj-column>
+    <mj-image mj-class="footer__logo logo"
+              css-class="footer__logo logo"
+              src="https://i.postimg.cc/TYW4cJp2/img-guitar-logo.png"
+              href="#"
+              alt="GuitarLogo"
+              title="Go To Guitar"
+              width="120px" />
 
-<mj-column mj-class="footer__column"
-           css-class="footer__column">
+  </mj-column>
 
-  <mj-social mj-class="footer__social"
-             css-class="footer__social">
+  <mj-column mj-class="footer__column"
+             css-class="footer__column"
+             width="55%">
 
-      <mj-social-element src="https://i.postimg.cc/PJxWX5k2/img-guitar-facebook.png"
-                         href="#"
-                         alt="facebook"
-                         title="facebook"></mj-social-element>
+    <mj-social mj-class="footer__social"
+               css-class="footer__social">
 
-      <mj-social-element src="https://i.postimg.cc/hjM8R7NX/img-guitar-instagram.png"
-                         href="#"
-                         alt="instagram"
-                         title="instagram"></mj-social-element>
+        <mj-social-element src="https://i.postimg.cc/8c7n9h4H/img-guitar-facebook.png"
+                           href="#"
+                           alt="facebook"
+                           title="facebook"></mj-social-element>
 
-      <mj-social-element src="https://i.postimg.cc/4ymcC2z0/img-guitar-twitter.png"
-                         href="#"
-                         alt="twitter"
-                         title="twitter"></mj-social-element>
+        <mj-social-element src="https://i.postimg.cc/wjX4CxXS/img-guitar-instagram.png"
+                           href="#"
+                           alt="instagram"
+                           title="instagram"></mj-social-element>
 
-  </mj-social>
+        <mj-social-element src="https://i.postimg.cc/xCCsNKw2/img-guitar-twitter.png"
+                           href="#"
+                           alt="twitter"
+                           title="twitter"></mj-social-element>
 
-</mj-column>
+    </mj-social>
+
+  </mj-column>
+
+</mj-group>

@@ -13,8 +13,8 @@
 <mj-column mj-class="main__column"
            css-class="main__column">
 
-  <mj-text mj-class="main__caption"
-           mj-class="main__caption">
+  <mj-text mj-class="main__caption h2"
+           mj-class="main__caption h2">
     <span>Microfones</span>
   </mj-text>
 
@@ -23,8 +23,8 @@
     <span>35&#37; off</span>
   </mj-text>
 
-  <mj-button mj-class="main__button"
-             mj-class="main__button"
+  <mj-button mj-class="main__button btn"
+             mj-class="main__button btn"
              href="#">Learn more</mj-button>
 
 </mj-column>

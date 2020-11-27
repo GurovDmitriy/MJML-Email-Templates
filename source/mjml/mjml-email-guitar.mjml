@@ -10,50 +10,62 @@
   <mj-include path="mjml-include/guitar/style.mjml" />
 
 </mj-head>
-<mj-body css-class="body" background-color="#ffffff">
+<mj-body css-class="body"
+         background-color="#202020">
 
-  <mj-section mj-class="header"
-              css-class="header">
-    <mj-include path="mjml-include/guitar/header.mjml" />
-  </mj-section>
+  <mj-wrapper mj-class="wrapper"
+              css-class="wrapper"
+              full-width="full-width">
 
-  <mj-section mj-class="separator"
-              css-class="separator">
-    <mj-include path="mjml-include/guitar/separator.mjml" />
-  </mj-section>
+    <mj-section mj-class="header"
+                css-class="header">
+      <mj-include path="mjml-include/guitar/header.mjml" />
+    </mj-section>
 
-  <mj-section mj-class="main main-top"
-              css-class="main main-top">
-    <mj-include path="mjml-include/guitar/main-top.mjml" />
-  </mj-section>
+    <mj-section mj-class="separator"
+                css-class="separator">
+      <mj-include path="mjml-include/guitar/separator.mjml" />
+    </mj-section>
 
-  <mj-section mj-class="main main-middle"
-              css-class="main main-middle">
-    <mj-include path="mjml-include/guitar/main-middle.mjml" />
-  </mj-section>
+    <mj-section mj-class="main main-top"
+                css-class="main main-top">
+      <mj-include path="mjml-include/guitar/main-top.mjml" />
+    </mj-section>
 
-  <mj-section mj-class="main main-bottom"
-              css-class="main main-bottom">
-    <mj-include path="mjml-include/guitar/main-bottom.mjml" />
-  </mj-section>
+    <mj-section mj-class="delimiter"
+                css-class="delimiter">
+      <mj-include path="mjml-include/guitar/delimiter.mjml" />
+    </mj-section>
 
-  <mj-section mj-class="shop-caption"
-              css-class="shop-caption">
-    <mj-include path="mjml-include/guitar/shop-caption.mjml" />
-  </mj-section>
+    <mj-section mj-class="main main-middle"
+                css-class="main main-middle">
+      <mj-include path="mjml-include/guitar/main-middle.mjml" />
+    </mj-section>
 
-  <mj-section mj-class="shop shop-top"
-              css-class="shop shop-top">
-    <mj-include path="mjml-include/guitar/shop-top.mjml" />
-  </mj-section>
+    <mj-section mj-class="delimiter"
+                css-class="delimiter">
+      <mj-include path="mjml-include/guitar/delimiter.mjml" />
+    </mj-section>
 
-  <mj-section mj-class="shop shop-bottom"
-              css-class="shop shop-bottom">
-    <mj-include path="mjml-include/guitar/shop-bottom.mjml" />
-  </mj-section>
+    <mj-section mj-class="main main-bottom"
+                css-class="main main-bottom">
+      <mj-include path="mjml-include/guitar/main-bottom.mjml" />
+    </mj-section>
 
-  <mj-wrapper mj-class="category-wrapper"
-              css-class="category-wrapper">
+    <mj-section mj-class="shop-title"
+                css-class="shop-title">
+      <mj-include path="mjml-include/guitar/shop-title.mjml" />
+    </mj-section>
+
+    <mj-section mj-class="shop shop-top"
+                css-class="shop shop-top">
+      <mj-include path="mjml-include/guitar/shop-top.mjml" />
+    </mj-section>
+
+    <mj-section mj-class="shop shop-bottom"
+                css-class="shop shop-bottom">
+      <mj-include path="mjml-include/guitar/shop-bottom.mjml" />
+    </mj-section>
 
     <mj-section mj-class="category-title"
                 css-class="category-title">
@@ -65,27 +77,26 @@
       <mj-include path="mjml-include/guitar/category.mjml" />
     </mj-section>
 
+    <mj-section mj-class="separator"
+                css-class="separator">
+      <mj-include path="mjml-include/guitar/separator.mjml" />
+    </mj-section>
+
+    <mj-section mj-class="advantages"
+                css-class="advantages">
+      <mj-include path="mjml-include/guitar/advantages.mjml" />
+    </mj-section>
+
+    <mj-section mj-class="footer"
+                css-class="footer">
+      <mj-include path="mjml-include/guitar/footer.mjml" />
+    </mj-section>
+
+    <mj-section mj-class="copyright"
+                css-class="copyright">
+      <mj-include path="mjml-include/guitar/copyright.mjml" />
+    </mj-section>
   </mj-wrapper>
-
-  <mj-section mj-class="separator"
-              css-class="separator">
-    <mj-include path="mjml-include/guitar/separator.mjml" />
-  </mj-section>
-
-  <mj-section mj-class="advantages"
-              css-class="advantages">
-    <mj-include path="mjml-include/guitar/advantages.mjml" />
-  </mj-section>
-
-  <mj-section mj-class="footer"
-              css-class="footer">
-    <mj-include path="mjml-include/guitar/footer.mjml" />
-  </mj-section>
-
-  <mj-section mj-class="copyright"
-              css-class="copyright">
-    <mj-include path="mjml-include/guitar/copyright.mjml" />
-  </mj-section>
 
 </mj-body>
 </mjml>

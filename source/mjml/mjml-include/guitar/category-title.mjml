@@ -1,8 +1,8 @@
 <mj-column mj-class="category-title__column"
            css-class="category-title__column">
 
-  <mj-text mj-class="category-title__caption"
-           css-class="category-title__caption">
+  <mj-text mj-class="category-title__caption h2"
+           css-class="category-title__caption h2">
     <span>Shop by category</span>
   </mj-text>
 

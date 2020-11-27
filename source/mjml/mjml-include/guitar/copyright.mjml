@@ -3,7 +3,7 @@
 
   <mj-text mj-class="copyright__text"
            css-class="copyright__text">
-    <p>&copy; Your Brand. All Rights Reserved.</p>
+    <p>&copy; Your Brand. All Rights Reserved. Created by <a href="https://www.typenote.io/" target="_blank">typenote.io</a></p>
   </mj-text>
 
 </mj-column>
