@@ -1,0 +1,30 @@
+<mj-column mj-class="header-column"
+           css-class="header-column">
+
+  <mj-image mj-class="header__logo"
+            css-class="header__logo"
+            src="https://i.postimg.cc/j5R61h3V/img-guitar-logo.png"
+            href="#"
+            alt="GuitarLogo"
+            title="Go to Guitar"
+            width="120px" />
+
+  <mj-text mj-class="header__caption">
+    <span>Labor day</span>
+  </mj-text>
+
+  <mj-text mj-class="header__title">
+    <span>Weekend sale<span>
+  </mj-text>
+
+  <mj-button mj-class="header__btn btn"
+             mj-class="header__btn btn"
+             href="#">Shop now</mj-button>
+
+  <mj-image mj-class="header__image"
+            css-class="header__image"
+            src="https://i.postimg.cc/sDMYbxm2/img-guitar-header-image.png"
+            alt="Guitar Band"
+            title="Guitar Band" />
+
+</mj-column>

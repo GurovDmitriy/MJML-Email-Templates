@@ -1,0 +1,50 @@
+<mj-column mj-class="category__column"
+           css-class="category__column">
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Electric Guitars</mj-button>
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Amps</mj-button>
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Drums</mj-button>
+
+</mj-column>
+
+<mj-column mj-class="category__column"
+           css-class="category__column">
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Pro Audio</mj-button>
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Synths</mj-button>
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Straps</mj-button>
+
+</mj-column>
+
+<mj-column mj-class="category__column"
+           css-class="category__column">
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Effects &amp; Pedals</mj-button>
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Base Guitars</mj-button>
+
+  <mj-button mj-class="category__btn btn"
+             css-class="category__btn btn"
+             href="#">Accessories</mj-button>
+
+</mj-column>

@@ -1,0 +1,10 @@
+<mj-column mj-class="separator__column"
+           css-class="separator__column">
+
+  <mj-image mj-class="separator__image"
+            css-class="separator__image"
+            src="https://i.postimg.cc/yY2mKKpy/img-guitar-separator.png"
+            alt="Sale 20&#37;"
+            title="Sale 20&#37;" />
+
+</mj-column>

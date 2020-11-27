@@ -1,0 +1,9 @@
+<mj-column mj-class="copyright__column"
+           css-class="copyright__column">
+
+  <mj-text mj-class="copyright__text"
+           css-class="copyright__text">
+    <p>&copy; Your Brand. All Rights Reserved.</p>
+  </mj-text>
+
+</mj-column>

@@ -1,0 +1,41 @@
+<mj-column mj-class="shop__column"
+           css-class="shop__column">
+
+  <mj-image mj-class="shop__image"
+            css-class="shop__image"
+            src="https://i.postimg.cc/L4bfkRSF/img-guitar-product-photo-1.png"
+            alt="Guitar"
+            title="Guitar" />
+
+</mj-column>
+
+<mj-column mj-class="shop__column"
+           css-class="shop__column">
+
+  <mj-image mj-class="shop__image-shop"
+            css-class="shop__image-shop"
+            src="https://i.postimg.cc/nrPvCfFZ/img-guitar-guitar.png"
+            alt="Guitar Electric"
+            title="Guitar Electric"
+            width="180px" />
+
+  <mj-text mj-class="shop__sale"
+           css-class="shop__sale">
+    <span>20&#37; off</span>
+  </mj-text>
+
+  <mj-text mj-class="shop__caption"
+           css-class="shop__caption">
+    <span>Electric Guitar One</span>
+  </mj-text>
+
+  <mj-text mj-class="shop__price"
+           css-class="shop__price">
+    <span>Price: <del>$100</del> <span class="shop__price-value">$80</span></span>
+  </mj-text>
+
+  <mj-button mj-class="shop__btn btn"
+             css-class="shop__btn btn"
+             href="#">See product</mj-button>
+
+</mj-column>

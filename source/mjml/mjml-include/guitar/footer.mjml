@@ -1,0 +1,37 @@
+<mj-column mj-class="footer__column"
+           css-class="footer__column">
+
+  <mj-image mj-class="footer__logo"
+            css-class="footer__logo"
+            src="https://i.postimg.cc/j5R61h3V/img-guitar-logo.png"
+            href="#"
+            alt="GuitarLogo"
+            title="Go To Guitar"
+            width="120px" />
+
+</mj-column>
+
+<mj-column mj-class="footer__column"
+           css-class="footer__column">
+
+  <mj-social mj-class="footer__social"
+             css-class="footer__social">
+
+      <mj-social-element src="https://i.postimg.cc/PJxWX5k2/img-guitar-facebook.png"
+                         href="#"
+                         alt="facebook"
+                         title="facebook"></mj-social-element>
+
+      <mj-social-element src="https://i.postimg.cc/hjM8R7NX/img-guitar-instagram.png"
+                         href="#"
+                         alt="instagram"
+                         title="instagram"></mj-social-element>
+
+      <mj-social-element src="https://i.postimg.cc/4ymcC2z0/img-guitar-twitter.png"
+                         href="#"
+                         alt="twitter"
+                         title="twitter"></mj-social-element>
+
+  </mj-social>
+
+</mj-column>

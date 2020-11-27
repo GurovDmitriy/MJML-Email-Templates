@@ -1,0 +1,47 @@
+<mj-column mj-class="advantages__column"
+           css-class="advantages__column">
+
+  <mj-image mj-class="advantages__image"
+            css-class="advantages__image"
+            src="https://i.postimg.cc/d02mnfBm/img-guitar-delivery.png"
+            alt="Delivery"
+            title="Delivery" />
+
+  <mj-text mj-class="advantages__caption"
+           css-class="advantages__caption">
+    <span>Free delivery &#36;30 &minus;</span>
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="advantages__column"
+           css-class="advantages__column">
+
+  <mj-image mj-class="advantages__image"
+            css-class="advantages__image"
+            src="https://i.postimg.cc/j2m7R6cS/img-guitar-students.png"
+            alt="Delivery"
+            title="Delivery" />
+
+  <mj-text mj-class="advantages__caption"
+           css-class="advantages__caption">
+    <span>Students 10&#37; off</span>
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="advantages__column"
+           css-class="advantages__column">
+
+  <mj-image mj-class="advantages__image"
+            css-class="advantages__image"
+            src="https://i.postimg.cc/sgSpDLtd/img-guitar-returns.png"
+            alt="Delivery"
+            title="Delivery" />
+
+  <mj-text mj-class="advantages__caption"
+           css-class="advantages__caption">
+    <span>Free returns</span>
+  </mj-text>
+
+</mj-column>

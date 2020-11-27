@@ -1,0 +1,30 @@
+<mj-column mj-class="main__column"
+           css-class="main__column">
+
+  <mj-image mj-class="main__image"
+            css-class="main__image"
+            src="https://i.postimg.cc/Zqxp6dbw/img-guitar-product-2.png"
+            alt="Pianos"
+            title="Pianos" />
+
+</mj-column>
+
+
+<mj-column mj-class="main__column"
+           css-class="main__column">
+
+  <mj-text mj-class="main__caption"
+           mj-class="main__caption">
+    <span>Pianos</span>
+  </mj-text>
+
+  <mj-text mj-class="main__text"
+           mj-class="main__text">
+    <span>45&#37; off</span>
+  </mj-text>
+
+  <mj-button mj-class="main__button"
+             mj-class="main__button"
+             href="#">Learn more</mj-button>
+
+</mj-column>
