@@ -3,7 +3,7 @@
 
   <mj-image mj-class="main__image"
             css-class="main__image"
-            src="https://i.postimg.cc/DzT1WgTW/img-guitar-product-1.png"
+            src="https://i.postimg.cc/MpwgDj8g/img-guitar-product-1.jpg"
             alt="Guitars"
             title="Guitars" />
 
@@ -14,17 +14,17 @@
            css-class="main__column">
 
   <mj-text mj-class="main__caption h2"
-           mj-class="main__caption h2">
+           css-class="main__caption h2">
     <span>Guitars</span>
   </mj-text>
 
   <mj-text mj-class="main__text"
-           mj-class="main__text">
+           css-class="main__text">
     <span>35&#37; off</span>
   </mj-text>
 
-  <mj-button mj-class="main__button btn"
-             mj-class="main__button btn"
+  <mj-button mj-class="main__btn btn"
+             css-class="main__btn btn"
              href="#">Learn more</mj-button>
 
 </mj-column>

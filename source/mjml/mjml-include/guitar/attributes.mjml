@@ -8,11 +8,10 @@
                          color="#202020" />
 
   <mj-wrapper            padding="0"
-                         background-url="https://i.postimg.cc/QxjGskrd/img-guitar-main-bg.jpg"
+                         background-url="https://i.postimg.cc/s2s8ywRf/img-guitar-main-bg.jpg"
                          background-size="50%"
                          background-repeat="no-repeat"
-                         background-position="left bottom"
-                         background-color="#202020" />
+                         background-position="left bottom" />
 
   <mj-section            padding="10px 0" />
 
@@ -20,28 +19,32 @@
 
   <mj-text               padding="10px 20px" />
 
-  <mj-button             padding="10px 10px"
+  <mj-button             padding="10px 20px"
                          inner-padding="10px 20px"
                          border="none"
                          border-radius="0" />
 
-  <mj-class name="title" font-size="46px"
+  <mj-class name="title" font-family="Oswald, Verdana, Geneva, sans-serif"
+                         font-size="46px"
                          line-height="46px"
                          font-weight="700"
                          text-transform="uppercase"
                          color="#d6383d" />
 
-  <mj-class name="h1"    font-size="38px"
+  <mj-class name="h1"    font-family="Oswald, Verdana, Geneva, sans-serif"
+                         font-size="38px"
                          line-height="38px"
                          text-transform="uppercase" />
 
-  <mj-class name="h2"    padding="4px 20px"
+  <mj-class name="h2"    font-family="Oswald, Verdana, Geneva, sans-serif"
+                         padding="4px 20px"
                          font-size="22px"
                          line-height="34px"
                          font-weight="700"
                          text-transform="uppercase" />
 
-  <mj-class name="h3"    padding="5px 20px"
+  <mj-class name="h3"    font-family="Oswald, Verdana, Geneva, sans-serif"
+                         padding="5px 10px"
                          font-size="18px"
                          line-height="28px"
                          font-weight="700" />
@@ -121,8 +124,8 @@
 
   <mj-class name="shop__column"        vertical-align="middle" />
 
-  <mj-class name="shop__image"         padding="0"
-                                       fluid-on-mobile="true" />
+  <mj-class name="shop__image"         fluid-on-mobile="true"
+                                       padding="0" />
 
   <mj-class name="shop-title__caption" align="center" />
 
@@ -134,7 +137,7 @@
 
   <mj-class name="shop__caption"       align="center" />
 
-  <mj-class name="shop__price"         padding="6px 20px"
+  <mj-class name="shop__price"         padding="6px 10px"
                                        align="center" />
 
 

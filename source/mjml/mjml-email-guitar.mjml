@@ -1,8 +1,10 @@
-<mjml>
+<mjml lang="en">
 <mj-head>
 
   <mj-title>Guitar Template</mj-title>
   <mj-preview>Labor Day Weekend Sale &mdash; guitart, drums, pianos, microphones</mj-preview>
+
+  <mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" />
 
   <mj-include path="mjml-include/guitar/attributes.mjml" />
 

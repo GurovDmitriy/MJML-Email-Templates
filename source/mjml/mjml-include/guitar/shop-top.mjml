@@ -3,9 +3,10 @@
 
   <mj-image mj-class="shop__image"
             css-class="shop__image"
-            src="https://i.postimg.cc/L4bfkRSF/img-guitar-product-photo-1.png"
+            src="https://i.postimg.cc/dQzbhxNs/img-guitar-product-photo-1.jpg"
             alt="Guitar"
-            title="Guitar" />
+            title="Guitar"
+            width="220px" />
 
 </mj-column>
 
@@ -14,7 +15,7 @@
 
   <mj-image mj-class="shop__image-shop"
             css-class="shop__image-shop"
-            src="https://i.postimg.cc/k5w15jhs/img-guitar-guitar.png"
+            src="https://i.postimg.cc/MX2mzRDw/img-guitar-guitar.jpg"
             alt="Guitar Electric"
             title="Guitar Electric"
             width="180px" />

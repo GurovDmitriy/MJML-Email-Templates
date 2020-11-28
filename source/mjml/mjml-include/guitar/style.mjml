@@ -30,4 +30,16 @@
 
 }
 
+.header__btn a:hover,
+.shop__btn a:hover,
+td.category__btn td:hover,
+td.category__btn td:hover a {
+  background: #d6383d !important;
+  background-color: #d6383d !important;
+}
+
+.main__btn a:hover {
+  color: #d6383d !important;
+}
+
 </mj-style>

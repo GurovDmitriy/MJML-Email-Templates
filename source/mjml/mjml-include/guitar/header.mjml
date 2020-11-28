@@ -20,7 +20,7 @@
   </mj-text>
 
   <mj-button mj-class="header__btn btn"
-             mj-class="header__btn btn"
+             css-class="header__btn btn"
              href="#">Shop now</mj-button>
 
   <mj-image mj-class="header__image"

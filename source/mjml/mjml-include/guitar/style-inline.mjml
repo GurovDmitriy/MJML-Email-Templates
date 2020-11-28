@@ -37,15 +37,6 @@ p {
   min-width: 320px !important;
 }
 
-.wrapper {
-  padding: 0;
-  background-image: url("https://i.postimg.cc/QxjGskrd/img-guitar-main-bg.jpg");
-  background-size: 50%;
-  background-repeat: no-repeat;
-  background-position: left bottom;
-  background-color: #202020;
-}
-
 .logo a,
 .footer__social a {
   color: #202020 !important;

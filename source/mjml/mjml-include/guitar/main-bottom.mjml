@@ -3,7 +3,7 @@
 
   <mj-image mj-class="main__image"
             css-class="main__image"
-            src="https://i.postimg.cc/fLWXCRkD/img-guitar-product-3.png"
+            src="https://i.postimg.cc/RC6rVBRp/img-guitar-product-3.jpg"
             alt="Microfones"
             title="Microfones" />
 
@@ -14,17 +14,17 @@
            css-class="main__column">
 
   <mj-text mj-class="main__caption h2"
-           mj-class="main__caption h2">
+           css-class="main__caption h2">
     <span>Microfones</span>
   </mj-text>
 
   <mj-text mj-class="main__text"
-           mj-class="main__text">
+           css-class="main__text">
     <span>35&#37; off</span>
   </mj-text>
 
-  <mj-button mj-class="main__button btn"
-             mj-class="main__button btn"
+  <mj-button mj-class="main__btn btn"
+             css-class="main__btn btn"
              href="#">Learn more</mj-button>
 
 </mj-column>
