@@ -14,7 +14,7 @@
 
   <mj-text mj-class="header__title h1"
            css-class="header__title">
-    <span>Black</span><span>friday</span>
+    <p><span>Black</span> <span>friday</span></p>
   </mj-text>
 
   <mj-image mj-class="header__image"
@@ -23,6 +23,7 @@
             alt="Headphones -30&#37; off"
             title="headphones" />
 
-  <mj-button mj-class="header__btn btn" href="#">This 29 november get 30&#37; off</mj-button>
+  <mj-button mj-class="header__btn btn"
+             css-class="header__btn btn" href="#">This 29 november get 30&#37; off</mj-button>
 
 </mj-column>

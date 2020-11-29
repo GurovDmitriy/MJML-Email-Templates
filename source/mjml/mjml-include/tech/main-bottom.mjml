@@ -12,7 +12,8 @@
     <p>Duis aute culpa qui officia deserunt mollit anim id est laborum.</p>
   </mj-text>
 
-  <mj-button mj-class="main-bottom__btn btn" href="#">Get 30&#37; off</mj-button>
+  <mj-button mj-class="main-bottom__btn btn"
+             css-class="main-bottom__btn btn" href="#">Get 30&#37; off</mj-button>
 
 </mj-column>
 

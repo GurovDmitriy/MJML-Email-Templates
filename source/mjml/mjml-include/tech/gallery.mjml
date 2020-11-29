@@ -19,7 +19,8 @@
       mollit anim id est laborum.</p>
   </mj-text>
 
-  <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>
+  <mj-button mj-class="gallery__btn btn"
+             css-class="gallery__btn btn" href="#">Buy</mj-button>
 
 </mj-column>
 
@@ -44,7 +45,8 @@
       mollit anim id est laborum.</p>
   </mj-text>
 
-  <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>
+  <mj-button mj-class="gallery__btn btn"
+             css-class="gallery__btn btn" href="#">Buy</mj-button>
 
 </mj-column>
 
@@ -69,6 +71,7 @@
       mollit anim id est laborum.</p>
   </mj-text>
 
-  <mj-button mj-class="gallery__btn btn" href="#">Buy</mj-button>
+  <mj-button mj-class="gallery__btn btn"
+             css-class="gallery__btn btn" href="#">Buy</mj-button>
 
 </mj-column>

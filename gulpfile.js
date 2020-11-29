@@ -65,7 +65,7 @@ gulp.task('mjmlBuildCompil', function () {
 /* image minify */
 
 gulp.task('imageMin', function() {
-  return gulp.src('build/image/*')
+  return gulp.src('build/image/**/*')
     .pipe(image({
       optipng: ['-i 1', '-strip all', '-fix', '-o7', '-force'],
       pngquant: ['--speed=1', '--force', 256],

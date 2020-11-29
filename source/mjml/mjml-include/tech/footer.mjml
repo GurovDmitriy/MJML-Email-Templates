@@ -1,27 +1,33 @@
-<mj-column css-class="footer__column"
+<mj-column mj-class="footer__column"
+           css-class="footer__column"
            width="50%">
 
-  <mj-social mj-class="footer__social">
+  <mj-social mj-class="footer__social"
+             css-class="footer__social">
 
     <mj-social-element mj-class="footer__social__element"
+                       css-class="footer__social__element"
                        src="https://i.postimg.cc/RCkHxhrJ/img-tech-facebook.png"
                        href="#"
                        alt="facebook"
                        title="facebook"></mj-social-element>
 
     <mj-social-element mj-class="footer__social__element"
+                       css-class="footer__social__element"
                        src="https://i.postimg.cc/fT7J4vj1/img-tech-twitter.png"
                        href="#"
                        alt="twitter"
                        title="twitter"></mj-social-element>
 
     <mj-social-element mj-class="footer__social__element"
+                       css-class="footer__social__element"
                        src="https://i.postimg.cc/PJYN5bGp/img-tech-instagram.png"
                        href="#"
                        alt="instagram"
                        title="instagram"></mj-social-element>
 
     <mj-social-element mj-class="footer__social__element"
+                       css-class="footer__social__element"
                        src="https://i.postimg.cc/HWyrzmJY/img-tech-linkedin.png"
                        href="#"
                        alt="linkedin"
@@ -31,7 +37,8 @@
 
 </mj-column>
 
-<mj-column css-class="footer__column"
+<mj-column mj-class="footer__column"
+           css-class="footer__column"
            width="50%">
 
   <mj-text mj-class="footer__copyright"

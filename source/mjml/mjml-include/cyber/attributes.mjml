@@ -5,10 +5,11 @@
                           line-height="22px"
                           color="#bbbbbb" />
 
-  <mj-wrapper             background-color="#0e0e10"
-                          border-radius="10px"
-                          padding-top="10px"
-                          padding-bottom="10px" />
+  <mj-wrapper             background-url="https://i.postimg.cc/cHGP6rgS/img-cyber-main-bg.jpg"
+                          background-repeat="no-repeat"
+                          background-position="left top"
+                          background-size="40%"
+                          padding="0" />
 
   <mj-section             padding-top="10px"
                           padding-bottom="10px" />

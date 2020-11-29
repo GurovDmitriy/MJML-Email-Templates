@@ -13,6 +13,7 @@
   </mj-text>
 
   <mj-button mj-class="main-top__btn btn"
+             css-class="main-top__btn btn"
              href="#">New products</mj-button>
 
 </mj-column>

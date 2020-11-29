@@ -51,11 +51,11 @@
   <mj-class name="header-wrapper"        background-url="https://i.postimg.cc/VNZJGLB6/img-tech-bg-4.jpg"
                                          background-size="auto"
                                          background-position="center center"
-                                         background-repeat="no-repeat"
+                                         background-repeat="no-repeat" />
+
+
+  <mj-class name="header"                width="128px"
                                          background-color="#000000" />
-
-
-  <mj-class name="header"                background-color="#000000" />
 
 
   <mj-class name="header__logo"          width="128px" />
@@ -88,9 +88,9 @@
   <mj-class name="header-bottom-wrapper" background-url="https://i.postimg.cc/13PV4d39/img-tech-bg-1.png"
                                          background-size="cover"
                                          background-position="center center"
-                                         background-repeat="no-repeat"
-                                         background-color="#000000"
-                                         padding-top="90px"
+                                         background-repeat="no-repeat" />
+
+  <mj-class name="header-bottom"         padding-top="90px"
                                          padding-bottom="0" />
 
 
@@ -98,11 +98,9 @@
 
 
   <mj-class name="main-top-wrapper"        background-url="https://i.postimg.cc/JnyG9VPQ/img-tech-bg-5.jpg"
-                                           background-size="auto"
+                                           background-size="cover"
                                            background-position="center center"
-                                           background-repeat="no-repeat"
-                                           background-color="#fde4ac" />
-
+                                           background-repeat="no-repeat" />
 
   <mj-class name="main-top"                background-color="#fde4ac" />
 
@@ -116,14 +114,13 @@
 
   <mj-class name="main-top__image"         fluid-on-mobile="true" />
 
+  <mj-class name="main-top-bottom"         padding-top="90px"
+                                            padding-bottom="0" />
 
   <mj-class name="main-top-bottom-wrapper" background-url="https://i.postimg.cc/W41DwJZC/img-tech-bg-3.png"
                                            background-size="cover"
                                            background-position="center center"
-                                           background-repeat="no-repeat"
-                                           background-color="#fde4ac"
-                                           padding-top="90px"
-                                           padding-bottom="0" />
+                                           background-repeat="no-repeat" />
 
 
   <!-- gallery -->
@@ -157,10 +154,9 @@
 
 
   <mj-class name="main-bottom-wrapper"        background-url="https://i.postimg.cc/V63dwGhP/img-tech-bg-2.png"
-                                              background-size="auto"
+                                              background-size="cover"
                                               background-position="center center"
-                                              background-repeat="no-repeat"
-                                              background-color="#fbf5e4" />
+                                              background-repeat="no-repeat" />
 
 
   <mj-class name="main-bottom"                background-color="#fbf5e4"

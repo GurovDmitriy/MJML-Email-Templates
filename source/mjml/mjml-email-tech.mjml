@@ -15,31 +15,80 @@
 </mj-head>
 <mj-body css-class="body" background-color="#000000">
 
-  <mj-section mj-class="header header-wrapper" full-width="full-width">
-    <mj-include path="mjml-include/tech/header.mjml" />
-  </mj-section>
+  <mj-wrapper mj-class="header-wrapper"
+              css-class="header-wrapper"
+              full-width="full-width">
 
-  <mj-section mj-class="header-bottom-wrapper" full-width="full-width">
-  </mj-section>
+    <mj-section mj-class="header"
+                css-class="header">
+      <mj-include path="mjml-include/tech/header.mjml" />
+    </mj-section>
 
-  <mj-section mj-class="main-top main-top-wrapper" full-width="full-width">
-    <mj-include path="mjml-include/tech/main-top.mjml" />
-  </mj-section>
+  </mj-wrapper>
 
-  <mj-section mj-class="main-top-bottom-wrapper" full-width="full-width">
-  </mj-section>
+  <mj-wrapper   mj-class="header-bottom-wrapper"
+                css-class="header-bottom-wrapper"
+                full-width="full-width">
 
-  <mj-section mj-class="gallery gallery-wrapper" full-width="full-width">
-    <mj-include path="mjml-include/tech/gallery.mjml" />
-  </mj-section>
+    <mj-section mj-class="header-bottom"
+                css-class="header-bottom">
+    </mj-section>
 
-  <mj-section mj-class="main-bottom main-bottom-wrapper" full-width="full-width">
-    <mj-include path="mjml-include/tech/main-bottom.mjml" />
-  </mj-section>
+  </mj-wrapper>
 
-  <mj-section mj-class="footer footer-wrapper" full-width="full-width">
-    <mj-include path="mjml-include/tech/footer.mjml" />
-  </mj-section>
+  <mj-wrapper   mj-class="main-top-wrapper"
+                css-class="main-top-wrapper"
+                full-width="full-width">
+
+    <mj-section mj-class="main-top"
+                css-class="main-top">
+      <mj-include path="mjml-include/tech/main-top.mjml" />
+    </mj-section>
+
+  </mj-wrapper>
+
+  <mj-wrapper   mj-class="main-top-bottom-wrapper"
+                css-class="main-top-bottom-wrapper"
+                full-width="full-width">
+
+    <mj-section mj-class="main-top-bottom"
+                css-class="main-top-bottom">
+    </mj-section>
+
+  </mj-wrapper>
+
+  <mj-wrapper   mj-class="gallery-wrapper"
+                css-class="gallery-wrapper"
+                full-width="full-width">
+
+    <mj-section mj-class="gallery"
+                css-class="gallery">
+      <mj-include path="mjml-include/tech/gallery.mjml" />
+    </mj-section>
+
+  </mj-wrapper>
+
+  <mj-wrapper   mj-class="main-bottom-wrapper"
+                css-class="main-bottom-wrapper"
+                full-width="full-width">
+
+    <mj-section mj-class="main-bottom"
+                css-class="main-bottom">
+      <mj-include path="mjml-include/tech/main-bottom.mjml" />
+    </mj-section>
+
+  </mj-wrapper>
+
+  <mj-wrapper   mj-class="footer-wrapper"
+                css-class="footer-wrapper"
+                full-width="full-width">
+
+    <mj-section mj-class="footer"
+                css-class="footer">
+      <mj-include path="mjml-include/tech/footer.mjml" />
+    </mj-section>
+
+  </mj-wrapper>
 
 </mj-body>
 <mjml>

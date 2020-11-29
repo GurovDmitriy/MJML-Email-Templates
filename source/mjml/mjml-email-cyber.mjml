@@ -17,9 +17,11 @@
 
   </mj-head>
 
-  <mj-body css-class="body" background-color="#000000">
+  <mj-body css-class="body" background-color="#030303">
 
-    <mj-wrapper>
+    <mj-wrapper mj-class="wrapper"
+                css-class="wrapper"
+                full-width="full-width">
 
       <mj-section mj-class="header">
         <mj-include path="mjml-include/cyber/header.mjml" />

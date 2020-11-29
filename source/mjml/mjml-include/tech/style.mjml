@@ -38,4 +38,27 @@
     }
   }
 
+  .header__btn td:hover,
+  .header__btn td:hover a {
+    background: #fde4ac !important;
+    background-color: #fde4ac !important;
+    color: #000000 !important;
+  }
+
+  .main-top__btn td:hover,
+  .main-top__btn td:hover a,
+  .gallery__btn td:hover,
+  .gallery__btn td:hover a {
+    background: #8a0108 !important;
+    background-color: #8a0108 !important;
+    color: #fde4ac !important;
+  }
+
+  .main-bottom__btn td:hover,
+  .main-bottom__btn td:hover a {
+    background: #000000 !important;
+    background-color: #000000 !important;
+    color: #fde4ac !important;
+  }
+
 </mj-style>

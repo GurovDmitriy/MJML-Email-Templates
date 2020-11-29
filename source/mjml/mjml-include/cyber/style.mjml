@@ -20,4 +20,21 @@
     }
   }
 
+  .header__nav-link:hover {
+    background: #a114ba !important;
+    background-color: #a114ba !important;
+    border-radius: 6px;
+  }
+
+  .gallery__btn td:hover,
+  .gallery__btn td:hover a {
+    background: #030303 !important;
+    background-color: #030303 !important;
+    color: #a114ba !important;
+  }
+
+  .footer__menu-link a:hover {
+    color: #a114ba !important;
+  }
+
 </mj-style>
