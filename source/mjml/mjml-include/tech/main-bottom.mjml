@@ -13,7 +13,7 @@
   </mj-text>
 
   <mj-button mj-class="main-bottom__btn btn"
-             css-class="main-bottom__btn btn" href="#">Get 30&#37; off</mj-button>
+             css-class="main-bottom__btn btn" href="https://www.google.com/">Get 30&#37; off</mj-button>
 
 </mj-column>
 
@@ -23,7 +23,7 @@
 
   <mj-image mj-class="main-bottom__image"
             css-class="main-bottom__image"
-            src="https://i.postimg.cc/pdSdQcR5/img-tech-vr.png"
+            src="https://i.postimg.cc/9MLKPczr/img-tech-vr.jpg"
             alt="VR glasses"
             title="VR glasses" />
 

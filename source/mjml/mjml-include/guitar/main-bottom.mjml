@@ -25,6 +25,6 @@
 
   <mj-button mj-class="main__btn btn"
              css-class="main__btn btn"
-             href="#">Learn more</mj-button>
+             href="https://www.google.com/">Learn more</mj-button>
 
 </mj-column>

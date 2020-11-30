@@ -4,15 +4,15 @@
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Electric Guitars</mj-button>
+             href="https://www.google.com/">Electric Guitars</mj-button>
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Amps</mj-button>
+             href="https://www.google.com/">Amps</mj-button>
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Drums</mj-button>
+             href="https://www.google.com/">Drums</mj-button>
 
 </mj-column>
 
@@ -22,15 +22,15 @@
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Pro Audio</mj-button>
+             href="https://www.google.com/">Pro Audio</mj-button>
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Synths</mj-button>
+             href="https://www.google.com/">Synths</mj-button>
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Straps</mj-button>
+             href="https://www.google.com/">Straps</mj-button>
 
 </mj-column>
 
@@ -40,14 +40,14 @@
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Effects &amp; Pedals</mj-button>
+             href="https://www.google.com/">Effects &amp; Pedals</mj-button>
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Base Guitars</mj-button>
+             href="https://www.google.com/">Base Guitars</mj-button>
 
   <mj-button mj-class="category__btn"
              css-class="category__btn"
-             href="#">Accessories</mj-button>
+             href="https://www.google.com/">Accessories</mj-button>
 
 </mj-column>

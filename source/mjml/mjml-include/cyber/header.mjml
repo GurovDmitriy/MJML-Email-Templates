@@ -4,7 +4,7 @@
   <mj-image mj-class="header__logo"
             css-class="header__logo"
             src="https://i.postimg.cc/vmj2gL07/img-cyber-logo.gif"
-            href="#"
+            href="https://www.google.com/"
             alt="Cyber"
             title="Go to Cyber" />
 
@@ -14,22 +14,22 @@
 
     <mj-navbar-link mj-class="header__nav-link h1"
                     css-class="header__nav-link h1"
-                    href="#">
+                    href="https://www.google.com/">
       About
     </mj-navbar-link>
     <mj-navbar-link mj-class="header__nav-link h1"
                     css-class="header__nav-link h1"
-                    href="#">
+                    href="https://www.google.com/">
       Sale
     </mj-navbar-link>
     <mj-navbar-link mj-class="header__nav-link h1"
                     css-class="header__nav-link h1"
-                    href="#">
+                    href="https://www.google.com/">
       Terms
     </mj-navbar-link>
     <mj-navbar-link mj-class="header__nav-link h1"
                     css-class="header__nav-link h1"
-                    href="#">
+                    href="https://www.google.com/">
       FAQ
     </mj-navbar-link>
 

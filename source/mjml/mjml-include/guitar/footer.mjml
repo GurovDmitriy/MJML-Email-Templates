@@ -8,7 +8,7 @@
     <mj-image mj-class="footer__logo logo"
               css-class="footer__logo logo"
               src="https://i.postimg.cc/TYW4cJp2/img-guitar-logo.png"
-              href="#"
+              href="https://www.google.com/"
               alt="GuitarLogo"
               title="Go To Guitar"
               width="120px" />
@@ -23,17 +23,17 @@
                css-class="footer__social">
 
         <mj-social-element src="https://i.postimg.cc/8c7n9h4H/img-guitar-facebook.png"
-                           href="#"
+                           href="https://www.google.com/"
                            alt="facebook"
                            title="facebook"></mj-social-element>
 
         <mj-social-element src="https://i.postimg.cc/wjX4CxXS/img-guitar-instagram.png"
-                           href="#"
+                           href="https://www.google.com/"
                            alt="instagram"
                            title="instagram"></mj-social-element>
 
         <mj-social-element src="https://i.postimg.cc/xCCsNKw2/img-guitar-twitter.png"
-                           href="#"
+                           href="https://www.google.com/"
                            alt="twitter"
                            title="twitter"></mj-social-element>
 

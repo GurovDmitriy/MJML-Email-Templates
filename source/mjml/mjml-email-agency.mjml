@@ -1,0 +1,20 @@
+<mjml lang="en">
+
+  <mj-head>
+
+    <mj-title>typenote &mdash; Agency Email Template</mj-title>
+    <mj-preview>We work outside of the box &mdash; Innovative, Creative, Strategic</mj-preview>
+
+    <mj-include path="mjml-include/agency/attributes.mjml" />
+
+    <mj-include path="mjml-include/agency/style-inline.mjml" />
+    <mj-include path="mjml-include/agency/style.mjml" />
+
+  </mj-head>
+
+  <mj-body css-class="body"
+           background-color="#444444">
+
+  </mj-body>
+
+</mjml>

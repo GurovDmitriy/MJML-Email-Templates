@@ -32,6 +32,6 @@
 
   <mj-button mj-class="gallery__btn btn"
              css-class="gallery__btn btn"
-             href="#">Shop Now</mj-button>
+             href="https://www.google.com/">Shop Now</mj-button>
 
 </mj-column>

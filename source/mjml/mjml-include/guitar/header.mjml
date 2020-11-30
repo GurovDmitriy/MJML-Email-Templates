@@ -4,7 +4,7 @@
   <mj-image mj-class="header__logo logo"
             css-class="header__logo logo"
             src="https://i.postimg.cc/TYW4cJp2/img-guitar-logo.png"
-            href="#"
+            href="https://www.google.com/"
             alt="GuitarLogo"
             title="Go to Guitar"
             width="120px" />
@@ -21,11 +21,11 @@
 
   <mj-button mj-class="header__btn btn"
              css-class="header__btn btn"
-             href="#">Shop now</mj-button>
+             href="https://www.google.com/">Shop now</mj-button>
 
   <mj-image mj-class="header__image"
             css-class="header__image"
-            src="https://i.postimg.cc/sDMYbxm2/img-guitar-header-image.png"
+            src="https://i.postimg.cc/fbPDZ7jH/img-guitar-header-image.jpg"
             alt="Guitar Band"
             title="Guitar Band" />
 

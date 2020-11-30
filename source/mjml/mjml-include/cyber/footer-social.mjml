@@ -6,28 +6,28 @@
 
     <mj-social-element mj-class="footer-social__list-item"
                        css-class="footer-social__list-item"
-                       href="#"
+                       href="https://www.google.com/"
                        src="https://i.postimg.cc/J4Wg5xMP/img-cyber-facebook.png"
                        alt="facebook"
                        title="facebook"></mj-social-element>
 
     <mj-social-element mj-class="footer-social__list-item"
                        css-class="footer-social__list-item"
-                       href="#"
+                       href="https://www.google.com/"
                        src="https://i.postimg.cc/4x2BqQRC/img-cyber-twitter.png"
                        alt="twitter"
                        title="twitter"></mj-social-element>
 
     <mj-social-element mj-class="footer-social__list-item"
                        css-class="footer-social__list-item"
-                       href="#"
+                       href="https://www.google.com/"
                        src="https://i.postimg.cc/zf3PGPFX/img-cyber-linkedin.png"
                        alt="linkedin"
                        title="linkedin"></mj-social-element>
 
     <mj-social-element mj-class="footer-social__list-item"
                        css-class="footer-social__list-item"
-                       href="#"
+                       href="https://www.google.com/"
                        src="https://i.postimg.cc/Mp9Fx8RF/img-cyber-instagram.png"
                        alt="instagram"
                        title="instagram"></mj-social-element>

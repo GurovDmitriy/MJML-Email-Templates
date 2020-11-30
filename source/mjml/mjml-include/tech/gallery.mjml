@@ -3,7 +3,7 @@
 
   <mj-image mj-class="gallery__image"
             css-class="gallery__image"
-            src="https://i.postimg.cc/25y6ZNRf/img-tech-product-1.png"
+            src="https://i.postimg.cc/BQRWwZpF/img-tech-product-1.jpg"
             alt="phone"
             title="phone" />
 
@@ -20,7 +20,7 @@
   </mj-text>
 
   <mj-button mj-class="gallery__btn btn"
-             css-class="gallery__btn btn" href="#">Buy</mj-button>
+             css-class="gallery__btn btn" href="https://www.google.com/">Buy</mj-button>
 
 </mj-column>
 
@@ -29,7 +29,7 @@
 
   <mj-image mj-class="gallery__image"
             css-class="gallery__image"
-            src="https://i.postimg.cc/MK1j6wxP/img-tech-headphones-2.jpg"
+            src="https://i.postimg.cc/4xtCCC2S/img-tech-headphones-2.jpg"
             alt="headphones"
             title="headphones" />
 
@@ -46,7 +46,7 @@
   </mj-text>
 
   <mj-button mj-class="gallery__btn btn"
-             css-class="gallery__btn btn" href="#">Buy</mj-button>
+             css-class="gallery__btn btn" href="https://www.google.com/">Buy</mj-button>
 
 </mj-column>
 
@@ -55,7 +55,7 @@
 
   <mj-image mj-class="gallery__image"
             css-class="gallery__image"
-            src="https://i.postimg.cc/Qd0CCxzb/img-tech-product-2.png"
+            src="https://i.postimg.cc/R0QjF7B1/img-tech-product-2.jpg"
             alt="camera"
             title="camera" />
 
@@ -72,6 +72,6 @@
   </mj-text>
 
   <mj-button mj-class="gallery__btn btn"
-             css-class="gallery__btn btn" href="#">Buy</mj-button>
+             css-class="gallery__btn btn" href="https://www.google.com/">Buy</mj-button>
 
 </mj-column>

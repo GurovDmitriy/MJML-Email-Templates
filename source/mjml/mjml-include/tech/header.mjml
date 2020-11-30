@@ -3,7 +3,7 @@
   <mj-image mj-class="header__logo"
             css-class="header__logo"
             src="https://i.postimg.cc/fTQJgPXx/img-tech-logo.png"
-            href="#"
+            href="https://www.google.com/"
             alt="techtemplate"
             title="go to tech" />
 
@@ -19,11 +19,11 @@
 
   <mj-image mj-class="header__image"
             css-class="header__image"
-            src="https://i.postimg.cc/CxNB84Rb/img-tech-headphones-1.png"
+            src="https://i.postimg.cc/sf6C74Zw/img-tech-headphones-1.jpg"
             alt="Headphones -30&#37; off"
             title="headphones" />
 
   <mj-button mj-class="header__btn btn"
-             css-class="header__btn btn" href="#">This 29 november get 30&#37; off</mj-button>
+             css-class="header__btn btn" href="https://www.google.com/">This 29 november get 30&#37; off</mj-button>
 
 </mj-column>

@@ -30,10 +30,12 @@
 
 }
 
-.header__btn a:hover,
-.shop__btn a:hover,
-td.category__btn td:hover,
-td.category__btn td:hover a {
+.header__btn td:hover,
+.header__btn td:hover a,
+.shop__btn td:hover,
+.shop__btn td:hover a,
+.category__btn td:hover,
+.category__btn td:hover a {
   background: #d6383d !important;
   background-color: #d6383d !important;
 }

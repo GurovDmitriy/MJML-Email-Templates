@@ -8,28 +8,28 @@
     <mj-social-element mj-class="footer__social__element"
                        css-class="footer__social__element"
                        src="https://i.postimg.cc/RCkHxhrJ/img-tech-facebook.png"
-                       href="#"
+                       href="https://www.google.com/"
                        alt="facebook"
                        title="facebook"></mj-social-element>
 
     <mj-social-element mj-class="footer__social__element"
                        css-class="footer__social__element"
                        src="https://i.postimg.cc/fT7J4vj1/img-tech-twitter.png"
-                       href="#"
+                       href="https://www.google.com/"
                        alt="twitter"
                        title="twitter"></mj-social-element>
 
     <mj-social-element mj-class="footer__social__element"
                        css-class="footer__social__element"
                        src="https://i.postimg.cc/PJYN5bGp/img-tech-instagram.png"
-                       href="#"
+                       href="https://www.google.com/"
                        alt="instagram"
                        title="instagram"></mj-social-element>
 
     <mj-social-element mj-class="footer__social__element"
                        css-class="footer__social__element"
                        src="https://i.postimg.cc/HWyrzmJY/img-tech-linkedin.png"
-                       href="#"
+                       href="https://www.google.com/"
                        alt="linkedin"
                        title="linkedin"></mj-social-element>
 
@@ -43,7 +43,9 @@
 
   <mj-text mj-class="footer__copyright"
            css-class="footer__copyright">
-    <p>Template created by <a href="https://www.typenote.io/" target="_blank">typenote.io</a></p>
+    <p>Template created by <a href="https://www.typenote.io/"
+                              target="_blank"
+                              title="go to typenote.io">typenote.io</a></p>
   </mj-text>
 
 </mj-column>

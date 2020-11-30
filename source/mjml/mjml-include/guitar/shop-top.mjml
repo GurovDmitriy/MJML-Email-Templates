@@ -37,6 +37,6 @@
 
   <mj-button mj-class="shop__btn btn"
              css-class="shop__btn btn"
-             href="#">See product</mj-button>
+             href="https://www.google.com/">See product</mj-button>
 
 </mj-column>

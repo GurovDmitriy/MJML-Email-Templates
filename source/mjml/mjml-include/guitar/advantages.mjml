@@ -24,9 +24,9 @@
 
     <mj-image mj-class="advantages__image"
               css-class="advantages__image advantages__image-2"
-              src="https://i.postimg.cc/V6ZD1dHk/img-guitar-returns.png"
-              alt="Delivery"
-              title="Delivery"
+              src="https://i.postimg.cc/zvLpf89S/img-guitar-students.png"
+              alt="Students"
+              title="Students"
               width="40px"
               height="40px" />
 
@@ -42,9 +42,9 @@
 
     <mj-image mj-class="advantages__image"
               css-class="advantages__image advantages__image-3"
-              src="https://i.postimg.cc/zvLpf89S/img-guitar-students.png"
-              alt="Delivery"
-              title="Delivery"
+              src="https://i.postimg.cc/V6ZD1dHk/img-guitar-returns.png"
+              alt="Returns"
+              title="Returns"
               width="40px"
               height="40px" />
 

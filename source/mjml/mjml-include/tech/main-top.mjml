@@ -14,7 +14,7 @@
 
   <mj-button mj-class="main-top__btn btn"
              css-class="main-top__btn btn"
-             href="#">New products</mj-button>
+             href="https://www.google.com/">New products</mj-button>
 
 </mj-column>
 
@@ -24,7 +24,7 @@
 
   <mj-image mj-class="main-top__image"
             css-class="main-top__image"
-            src="https://i.postimg.cc/3xKW3DtN/img-tech-quadrocopter.png"
+            src="https://i.postimg.cc/TwdBWKdz/img-tech-quadrocopter.jpg"
             alt="Quadrocopter"
             title="Quadrocopter" />
 

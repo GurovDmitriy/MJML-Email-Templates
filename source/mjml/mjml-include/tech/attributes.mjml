@@ -48,7 +48,7 @@
   <!-- header -->
 
 
-  <mj-class name="header-wrapper"        background-url="https://i.postimg.cc/VNZJGLB6/img-tech-bg-4.jpg"
+  <mj-class name="header-wrapper"        background-url="https://i.postimg.cc/RhFr2N27/img-tech-bg-4.jpg"
                                          background-size="auto"
                                          background-position="center center"
                                          background-repeat="no-repeat" />
@@ -85,7 +85,7 @@
                                          border="2px solid #fde4ac" />
 
 
-  <mj-class name="header-bottom-wrapper" background-url="https://i.postimg.cc/13PV4d39/img-tech-bg-1.png"
+  <mj-class name="header-bottom-wrapper" background-url="https://i.postimg.cc/fL5nHxqW/img-tech-bg-1.jpg"
                                          background-size="cover"
                                          background-position="center center"
                                          background-repeat="no-repeat" />
@@ -97,7 +97,7 @@
   <!-- main-top -->
 
 
-  <mj-class name="main-top-wrapper"        background-url="https://i.postimg.cc/JnyG9VPQ/img-tech-bg-5.jpg"
+  <mj-class name="main-top-wrapper"        background-url="https://i.postimg.cc/JhWfMT94/img-tech-bg-5.jpg"
                                            background-size="cover"
                                            background-position="center center"
                                            background-repeat="no-repeat" />
@@ -117,7 +117,7 @@
   <mj-class name="main-top-bottom"         padding-top="90px"
                                             padding-bottom="0" />
 
-  <mj-class name="main-top-bottom-wrapper" background-url="https://i.postimg.cc/W41DwJZC/img-tech-bg-3.png"
+  <mj-class name="main-top-bottom-wrapper" background-url="https://i.postimg.cc/L6JKTgtR/img-tech-bg-3.jpg"
                                            background-size="cover"
                                            background-position="center center"
                                            background-repeat="no-repeat" />
@@ -153,7 +153,7 @@
   <!-- main-bottom -->
 
 
-  <mj-class name="main-bottom-wrapper"        background-url="https://i.postimg.cc/V63dwGhP/img-tech-bg-2.png"
+  <mj-class name="main-bottom-wrapper"        background-url="https://i.postimg.cc/pr6NvPtg/img-tech-bg-2.jpg"
                                               background-size="cover"
                                               background-position="center center"
                                               background-repeat="no-repeat" />
