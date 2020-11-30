@@ -1,0 +1,19 @@
+<mj-column mj-class="feedback__column"
+           css-class="feedback__column">
+
+  <mj-text mj-class="feedback__caption"
+           css-class="feedback__caption">
+    <p>We can't wait to hear from you!</p>
+  </mj-text>
+
+  <mj-text mj-class="feedback__text"
+           css-class="feedback__text">
+    <p>Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
+  </mj-text>
+
+  <mj-button mj-class="feedback__btn btn"
+             css-class="feedback__btn btn">Contact us</mj-button>
+
+</mj-column>

@@ -1,0 +1,86 @@
+<mj-column mj-class="advantages-top__column"
+           css-class="advantages-top__column">
+
+  <mj-image mj-class="advantages-top__image"
+            css-class="advantages-top__image"
+            src="https://i.postimg.cc/PJXGBJDt/img-agency-adv-innovative.png"
+            alt="Innovative"
+            title="Innovative"
+            width="106px" />
+
+  <mj-text mj-class="advantages-top__caption"
+           css-class="advantages-top__caption">
+    <span>Innovative</span>
+  </mj-text>
+
+  <mj-text mj-class="advantages-top__text"
+           css-class="advantages-top__text">
+    <p>Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
+  </mj-text>
+
+  <mj-button mj-class="advantages-top__btn btn"
+             css-class="advantages-top__btn btn"
+             href="https://www.google.com/"
+             target="_blank">Read more</mj-button>
+
+</mj-column>
+
+<mj-column mj-class="advantages-top__column"
+           css-class="advantages-top__column">
+
+  <mj-image mj-class="advantages-top__image"
+            css-class="advantages-top__image"
+            src="https://i.postimg.cc/JnWC5P4H/img-agency-adv-creative.png"
+            alt="Creative"
+            title="Creative"
+            width="106px" />
+
+  <mj-text mj-class="advantages-top__caption"
+           css-class="advantages-top__caption">
+    <span>Creative</span>
+  </mj-text>
+
+  <mj-text mj-class="advantages-top__text"
+           css-class="advantages-top__text">
+    <p>Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
+  </mj-text>
+
+  <mj-button mj-class="advantages-top__btn btn"
+             css-class="advantages-top__btn btn"
+             href="https://www.google.com/"
+             target="_blank">Read more</mj-button>
+
+</mj-column>
+
+<mj-column mj-class="advantages-top__column"
+           css-class="advantages-top__column">
+
+  <mj-image mj-class="advantages-top__image"
+            css-class="advantages-top__image"
+            src="https://i.postimg.cc/6pDkBYZb/img-agency-adv-strategic.png"
+            alt="Strategic"
+            title="Strategic"
+            width="106px" />
+
+  <mj-text mj-class="advantages-top__caption"
+           css-class="advantages-top__caption">
+    <span>Strategic</span>
+  </mj-text>
+
+  <mj-text mj-class="advantages-top__text"
+           css-class="advantages-top__text">
+    <p>Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
+  </mj-text>
+
+  <mj-button mj-class="advantages-top__btn btn"
+             css-class="advantages-top__btn btn"
+             href="https://www.google.com/"
+             target="_blank">Read more</mj-button>
+
+</mj-column>

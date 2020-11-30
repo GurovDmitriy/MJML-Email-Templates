@@ -65,7 +65,7 @@ gulp.task('mjmlBuildCompil', function () {
 /* image minify */
 
 gulp.task('imageMin', function() {
-  return gulp.src('build/image/**/*')
+  return gulp.src('build/image/**/*.{jpg,png,svg,gif}')
     .pipe(image({
       optipng: ['-i 1', '-strip all', '-fix', '-o7', '-force'],
       pngquant: ['--speed=1', '--force', 256],
@@ -94,7 +94,7 @@ gulp.task('clean', function() {
 
 gulp.task('copy', function() {
   return gulp.src([
-    'source/image/*',
+    'source/image/**/*',
     ], {base: 'source'})
     .pipe(gulp.dest('build'));
 });

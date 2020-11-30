@@ -7,4 +7,8 @@
                           line-height="22px"
                           color="#ffffff" />
 
+  <!-- header-menu -->
+
+  <mj-class name="header-menu" background-color="#000000" />
+
 </mj-attributes>

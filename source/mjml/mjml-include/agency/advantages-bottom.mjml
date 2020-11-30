@@ -1,0 +1,88 @@
+<mj-column mj-class="advantages-bottom__column"
+           css-class="advantages-bottom__column">
+
+  <mj-image mj-class="advantages-bottom__image"
+            css-class="advantages-bottom__image"
+            src="https://i.postimg.cc/TwqM7gp7/img-agency-adv-likes.png"
+            alt="Likes"
+            title="Likes"
+            width="130px" />
+
+  <mj-text mj-class="advantages-bottom__title"
+           css-class="advantages-bottom__title">
+    <span>55k&#43;</span>
+  </mj-text>
+
+  <mj-text mj-class="advantages-bottom__caption"
+           css-class="advantages-bottom__caption">
+    <span>Likes</span>
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="advantages-bottom__column"
+           css-class="advantages-bottom__column">
+
+  <mj-image mj-class="advantages-bottom__image"
+            css-class="advantages-bottom__image"
+            src="https://i.postimg.cc/QdHD8FyC/img-agency-adv-comments.png"
+            alt="Comments"
+            title="Comments"
+            width="130px" />
+
+  <mj-text mj-class="advantages-bottom__title"
+           css-class="advantages-bottom__title">
+    <span>999&#43;</span>
+  </mj-text>
+
+  <mj-text mj-class="advantages-bottom__caption"
+           css-class="advantages-bottom__caption">
+    <span>Comments</span>
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="advantages-bottom__column"
+           css-class="advantages-bottom__column">
+
+  <mj-image mj-class="advantages-bottom__image"
+            css-class="advantages-bottom__image"
+            src="https://i.postimg.cc/L8wpnmcT/img-agency-adv-awards.png"
+            alt="Awards"
+            title="Awards"
+            width="130px" />
+
+  <mj-text mj-class="advantages-bottom__title"
+           css-class="advantages-bottom__title">
+    <span>66</span>
+  </mj-text>
+
+  <mj-text mj-class="advantages-bottom__caption"
+           css-class="advantages-bottom__caption">
+    <span>Awards</span>
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="advantages-bottom__column"
+           css-class="advantages-bottom__column">
+
+  <mj-image mj-class="advantages-bottom__image"
+            css-class="advantages-bottom__image"
+            src="https://i.postimg.cc/JhXWX9mW/img-agency-adv-coffees.png"
+            alt="Coffee"
+            title="Coffee"
+            width="130px" />
+
+  <mj-text mj-class="advantages-bottom__title"
+           css-class="advantages-bottom__title">
+    <span>33K&#43;</span>
+  </mj-text>
+
+  <mj-text mj-class="advantages-bottom__caption"
+           css-class="advantages-bottom__caption">
+    <span>Coffee</span>
+  </mj-text>
+
+</mj-column>
+

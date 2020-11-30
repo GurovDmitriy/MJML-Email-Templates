@@ -1,0 +1,43 @@
+<mj-column mj-class="description__column"
+           css-class="description__column">
+
+  <mj-accordion>
+    <mj-accordion-element>
+      <mj-accordion-title>
+        <span>Happy Clients</span>
+      </mj-accordion-title>
+      <mj-accordion-text>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </mj-accordion-text>
+    </mj-accordion-element>
+  </mj-accordion>
+
+  <mj-button mj-class="description__btn btn"
+             css-class="description__btn btn"
+             href="https://www.google.com/">Read more</mj-button>
+
+</mj-column>
+
+<mj-column mj-class="description__column"
+           css-class="description__column">
+
+  <mj-accordion>
+    <mj-accordion-element>
+      <mj-accordion-title>
+        <span>Proven Results</span>
+      </mj-accordion-title>
+      <mj-accordion-text>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </mj-accordion-text>
+    </mj-accordion-element>
+  </mj-accordion>
+
+  <mj-button mj-class="description__btn btn"
+             css-class="description__btn btn"
+             href="https://www.google.com/">Read more</mj-button>
+
+</mj-column>

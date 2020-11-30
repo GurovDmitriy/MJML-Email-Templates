@@ -1,0 +1,32 @@
+<mj-column mj-class="philosophy__column"
+           css-class="philosophy__column">
+
+  <mj-image mj-class="philosophy__image"
+            css-class="philosophy__image"
+            src="https://i.postimg.cc/j5v3nXWb/img-agency-vignette.jpg"
+            alt="Vignette"
+            title="Vignette" />
+
+</mj-column>
+
+<mj-column mj-class="philosophy__column"
+           css-class="philosophy__column">
+
+  <mj-text mj-class="philosophy__caption"
+           css-class="philosophy__caption">
+    <span>Our Phylosophy</span>
+  </mj-text>
+
+  <mj-text mj-class="philosophy__text"
+           css-class="philosophy__text">
+    <p>Eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </mj-text>
+
+  <mj-text mj-class="philosophy__text"
+           css-class="philosophy__text">
+    <p>Eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </mj-text>
+
+</mj-column>

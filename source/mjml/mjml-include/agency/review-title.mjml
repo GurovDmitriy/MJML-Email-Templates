@@ -1,0 +1,9 @@
+<mj-column mj-class="review-title__column"
+           css-class="review-title__column">
+
+  <mj-text mj-class="review-title__caption"
+           css-class="review-title__caption">
+    <span>Stuff people say</span>
+  </mj-text>
+
+</mj-column>

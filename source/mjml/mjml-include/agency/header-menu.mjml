@@ -1,0 +1,38 @@
+<mj-column mj-class="header-menu__column"
+           css-class="header-menu__column">
+
+  <mj-image mj-class="header-menu__image"
+            css-class="header-menu__image"
+            src="https://i.postimg.cc/90FSLS30/img-agency-logo.png"
+            alt="Agency"
+            title="go to Agency"
+            href="https://www.google.com/"
+            width="64px" />
+
+</mj-column>
+
+<mj-column mj-class="header-menu__column"
+           css-class="header-menu__column">
+
+  <mj-navbar mj-class="header-menu__navbar"
+             css-class="header-menu__navbar"
+             hamburger="hamburger">
+
+    <mj-navbar-link href="https://www.google.com"
+                    target="_blank">
+      About
+    </mj-navbar-link>
+
+    <mj-navbar-link href="https://www.google.com"
+                    target="_blank">
+      Careers
+    </mj-navbar-link>
+
+    <mj-navbar-link href="https://www.google.com"
+                    target="_blank">
+      Contact
+    </mj-navbar-link>
+
+  </mj-navbar>
+
+</mj-column>

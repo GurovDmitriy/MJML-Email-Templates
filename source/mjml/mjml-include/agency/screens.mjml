@@ -1,0 +1,22 @@
+<mj-column mj-class="screens__column"
+           css-class="screens__column">
+
+  <mj-text mj-class="screens__caption"
+           css-class="screens__caption">
+    <span>We are a creative Agency.</span>
+  </mj-text>
+
+  <mj-text mj-class="screens__text"
+           css-class="screens__text">
+    <p>Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
+  </mj-text>
+
+  <mj-image mj-class="screens__image"
+            css-class="screens__image"
+            src="https://i.postimg.cc/ZKn231FD/img-agency-screens.png"
+            alt="Screens"
+            title="Screens" />
+
+</mj-column>

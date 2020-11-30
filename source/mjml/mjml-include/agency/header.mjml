@@ -1,0 +1,23 @@
+<mj-column mj-class="header__column"
+            css-class="header__column">
+
+  <mj-image mj-class="header__image"
+            css-class="header__image"
+            src="https://i.postimg.cc/J7PSs1Jk/img-agency-outsidebox.png"
+            alt="Outsidebox"
+            title="Outsidebox"
+            width="160px" />
+
+  <mj-text mj-class="header__caption h1"
+           css-class="header__caption h1">
+    <p>We work outside of the box.</p>
+  </mj-text>
+
+  <mj-button mj-class="header__btn btn"
+             css-class="header__btn btn"
+             href="https://www.google.com/"
+             target="_blank">
+    Download the free strategy guide
+  </mj-button>
+
+</mj-column>

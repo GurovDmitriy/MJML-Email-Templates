@@ -1,0 +1,24 @@
+<mj-column mj-class="review__column"
+           css-class="review__column">
+
+  <mj-image mj-class="review__image"
+            css-class="review__image"
+            src="https://i.postimg.cc/8cKY9HDH/img-agency-quotes.png" />
+
+  <mj-text mj-class="review__text"
+           css-class="review__text">
+    <p>Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt
+      mollit anim id est laborum.</p>
+  </mj-text>
+
+  <mj-text mj-class="review__author"
+           css-class="review__author">
+    <span>&mdash; Mike Bernardo</span>
+  </mj-text>
+
+  <mj-image mj-class="review__image"
+            css-class="review__image"
+            src="https://i.postimg.cc/CM7pbCyd/img-agency-divider.png" />
+
+</mj-column>

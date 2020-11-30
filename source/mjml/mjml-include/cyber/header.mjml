@@ -14,22 +14,26 @@
 
     <mj-navbar-link mj-class="header__nav-link h1"
                     css-class="header__nav-link h1"
-                    href="https://www.google.com/">
+                    href="https://www.google.com/"
+                    target="_blank">
       About
     </mj-navbar-link>
     <mj-navbar-link mj-class="header__nav-link h1"
                     css-class="header__nav-link h1"
-                    href="https://www.google.com/">
+                    href="https://www.google.com/"
+                    target="_blank">
       Sale
     </mj-navbar-link>
     <mj-navbar-link mj-class="header__nav-link h1"
                     css-class="header__nav-link h1"
-                    href="https://www.google.com/">
+                    href="https://www.google.com/"
+                    target="_blank">
       Terms
     </mj-navbar-link>
     <mj-navbar-link mj-class="header__nav-link h1"
                     css-class="header__nav-link h1"
-                    href="https://www.google.com/">
+                    href="https://www.google.com/"
+                    target="_blank">
       FAQ
     </mj-navbar-link>
 

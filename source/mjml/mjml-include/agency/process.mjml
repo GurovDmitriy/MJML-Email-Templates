@@ -1,0 +1,32 @@
+<mj-column mj-class="process__column"
+           css-class="process__column">
+
+  <mj-text mj-class="process__caption"
+           css-class="process__caption">
+    <span>Our Phylosophy</span>
+  </mj-text>
+
+  <mj-text mj-class="process__text"
+           css-class="process__text">
+    <p>Eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </mj-text>
+
+  <mj-text mj-class="process__text"
+           css-class="process__text">
+    <p>Eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </mj-text>
+
+</mj-column>
+
+<mj-column mj-class="process__column"
+           css-class="process__column">
+
+  <mj-image mj-class="process__image"
+            css-class="process__image"
+            src="https://i.postimg.cc/brJCxtb2/img-agency-vignette2.jpg"
+            alt="Vignette"
+            title="Vignette" />
+
+</mj-column>

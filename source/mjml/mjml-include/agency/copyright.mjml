@@ -1,0 +1,11 @@
+<mj-column mj-class="copyright__column"
+           css-class="copyright__column">
+
+  <mj-text mj-class="copyright__text"
+           css-class="copyright__text">
+    <p>Created by <a href="https://www.typenote.io/"
+                     target="_blank"
+                     title="go to typenote.io">typenote.io</a></p>
+  </mj-text>
+
+</mj-column>
