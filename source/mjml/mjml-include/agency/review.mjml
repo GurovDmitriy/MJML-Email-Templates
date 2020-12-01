@@ -3,7 +3,9 @@
 
   <mj-image mj-class="review__image"
             css-class="review__image"
-            src="https://i.postimg.cc/8cKY9HDH/img-agency-quotes.png" />
+            src="https://i.postimg.cc/8cKY9HDH/img-agency-quotes.png"
+            alt="Quotes"
+            title="Quotes" />
 
   <mj-text mj-class="review__text"
            css-class="review__text">

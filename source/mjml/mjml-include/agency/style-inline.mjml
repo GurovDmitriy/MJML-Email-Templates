@@ -37,4 +37,70 @@
     padding: 0 !important;
   }
 
+  .mj-accordion-ico {
+    padding: 0 !important;
+  }
+
+  .mj-accordion-content td {
+    padding-top: 38px !important;
+  }
+
+  .footer__text a {
+    color: #555555 !important;
+    text-decoration: none;
+  }
+
+  .copyright__text a {
+    color: #ffffff !important;
+  }
+
+  .advantages-top__column {
+    width: 193px !important;
+  }
+
+  .philosophy__column,
+  .process__column,
+  .description__column,
+  .dignity__column {
+    width: 300px !important;
+  }
+
+  .gallery__column-group {
+    width: 290px !important;
+  }
+
+  .header-menu__column1 {
+    width: 210px !important;
+  }
+
+  .header-menu__column2 {
+    width: 280px !important;
+  }
+
+  .header-menu__image img,
+  .footer__image img,
+  .footer__social img,
+  .header__image img {
+    font-family: "Lato", "Tahoma", "Veranda", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #ffffff !important;
+    text-align: center !important;
+  }
+
+  .advantages-top__image img,
+  .advantages-middle__image img,
+  .advantages-bottom__image img,
+  .philosophy__image img,
+  .process__image img,
+  .review__image img,
+  .screens__image img,
+  .gallery__image img {
+    font-family: "Lato", "Tahoma", "Veranda", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #555555!important;
+    text-align: center !important;
+  }
+
 </mj-style>

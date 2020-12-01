@@ -1,5 +1,5 @@
-<mj-column mj-class="philosophy__column"
-           css-class="philosophy__column">
+<mj-column mj-class="philosophy__column philosophy__column1"
+           css-class="philosophy__column philosophy__column1">
 
   <mj-image mj-class="philosophy__image"
             css-class="philosophy__image"
@@ -9,12 +9,12 @@
 
 </mj-column>
 
-<mj-column mj-class="philosophy__column"
-           css-class="philosophy__column">
+<mj-column mj-class="philosophy__column philosophy__column2"
+           css-class="philosophy__column philosophy__column2">
 
-  <mj-text mj-class="philosophy__caption"
-           css-class="philosophy__caption">
-    <span>Our Phylosophy</span>
+  <mj-text mj-class="philosophy__caption h2"
+           css-class="philosophy__caption h2">
+    <span>Our Process</span>
   </mj-text>
 
   <mj-text mj-class="philosophy__text"

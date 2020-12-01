@@ -4,7 +4,7 @@
   <mj-column mj-class="gallery__column"
              css-class="gallery__column">
 
-    <mj-image mj-class="gallery__image"
+   <mj-image mj-class="gallery__image"
               css-class="gallery__image"
               src="https://i.postimg.cc/65PShYM6/img-agency-team1.jpg"
               alt="Teammate"
@@ -15,18 +15,22 @@
   <mj-column mj-class="gallery__column"
              css-class="gallery__column">
 
-    <mj-image mj-class="gallery__image"
+   <mj-image mj-class="gallery__image"
               css-class="gallery__image"
               src="https://i.postimg.cc/Hk7NvXNw/img-agency-team2.jpg"
               alt="Teammate"
               title="Teammate" />
 
   </mj-column>
+</mj-group>
+
+<mj-group mj-class="gallery__column-group"
+          css-class="gallery__column-group">
 
   <mj-column mj-class="gallery__column"
              css-class="gallery__column">
 
-    <mj-image mj-class="gallery__image"
+   <mj-image mj-class="gallery__image"
               css-class="gallery__image"
               src="https://i.postimg.cc/rpXPBz6v/img-agency-team3.jpg"
               alt="Teammate"
@@ -37,12 +41,11 @@
   <mj-column mj-class="gallery__column"
              css-class="gallery__column">
 
-    <mj-image mj-class="gallery__image"
+   <mj-image mj-class="gallery__image"
               css-class="gallery__image"
               src="https://i.postimg.cc/hjK3Gwts/img-agency-team4.jpg"
               alt="Teammate"
               title="Teammate" />
 
   </mj-column>
-
 </mj-group>

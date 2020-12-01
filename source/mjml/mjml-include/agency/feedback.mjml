@@ -1,8 +1,8 @@
 <mj-column mj-class="feedback__column"
            css-class="feedback__column">
 
-  <mj-text mj-class="feedback__caption"
-           css-class="feedback__caption">
+  <mj-text mj-class="feedback__caption h2"
+           css-class="feedback__caption h2">
     <p>We can't wait to hear from you!</p>
   </mj-text>
 
@@ -13,7 +13,8 @@
       mollit anim id est laborum.</p>
   </mj-text>
 
-  <mj-button mj-class="feedback__btn btn"
-             css-class="feedback__btn btn">Contact us</mj-button>
+  <mj-button mj-class="btn feedback__btn  btn--yellow"
+             css-class="btn feedback__btn  btn--yellow"
+             href="https://www.google.com/">Contact us</mj-button>
 
 </mj-column>

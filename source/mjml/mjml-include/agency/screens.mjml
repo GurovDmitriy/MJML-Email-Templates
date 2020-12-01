@@ -1,8 +1,8 @@
 <mj-column mj-class="screens__column"
            css-class="screens__column">
 
-  <mj-text mj-class="screens__caption"
-           css-class="screens__caption">
+  <mj-text mj-class="screens__caption h2"
+           css-class="screens__caption h2">
     <span>We are a creative Agency.</span>
   </mj-text>
 

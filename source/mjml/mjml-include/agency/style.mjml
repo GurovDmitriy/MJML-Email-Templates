@@ -1,3 +1,51 @@
 <mj-style>
 
+@media screen and (max-width: 479px) {
+  .advantages-top__column,
+  .philosophy__column,
+  .process__column,
+  .gallery__column-group,
+  .description__column,
+  .dignity__column {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .header-menu__column1 {
+    width: 40% !important;
+  }
+
+  .header-menu__column2 {
+    width: 60% !important;
+  }
+
+}
+
+.header-menu__link:hover {
+  color: #f7e110 !important;
+}
+
+.header__btn td:hover,
+.header__btn td:hover a {
+  color: #f7e110 !important;
+  background-color: #000000 !important;
+}
+
+.advantages-top__btn td:hover,
+.advantages-top__btn td:hover a,
+.description__btn td:hover,
+.description__btn td:hover a,
+.feedback__btn td:hover,
+.feedback__btn td:hover a {
+  color: #000000 !important;
+  background-color: #f7e110 !important;
+}
+
+.feedback__btn td:hover,
+.feedback__btn td:hover a {
+  color: #000000 !important;
+
+}
+
+
 </mj-style>

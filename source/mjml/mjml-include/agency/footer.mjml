@@ -9,20 +9,12 @@
             title="go to Agency"
             width="128px" />
 
-  <mj-text mj-class="footer__tel"
-           css-class="footer__tel">
-    <a href="tel:+1010101010"
-       title="tel +1010101010">&#43;1010101010</a>
-  </mj-text>
-
-  <mj-text mj-class="footer__mail"
-           css-class="footer__mail">
-    <a href="mailto:example@gmail.com"
-       title="email example@gmail.com">example@gmail.com</a>
-  </mj-text>
-
-  <mj-text mj-class="footer__address"
-           css-class="footer__address">
+  <mj-text mj-class="footer__text"
+           css-class="footer__text">
+    <p><a href="tel:+1010101010"
+         title="tel +1010101010">&#43;1010101010</a></p>
+    <p><a href="mailto:example@gmail.com"
+         title="email example@gmail.com">example@gmail.com</a></p>
     <p>Japan, 69, Main Street</p>
   </mj-text>
 

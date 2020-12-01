@@ -1,0 +1,9 @@
+<mj-column mj-class="gallery-title__column"
+           css-class="gallery-title__column">
+
+  <mj-text mj-class="gallery-title__caption h3"
+           css-class="gallery-title__caption h3">
+    <span>Our team</span>
+  </mj-text>
+
+</mj-column>

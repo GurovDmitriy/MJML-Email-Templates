@@ -1,8 +1,8 @@
-<mj-column mj-class="process__column"
-           css-class="process__column">
+<mj-column mj-class="process__column process__column1"
+           css-class="process__column process__column1">
 
-  <mj-text mj-class="process__caption"
-           css-class="process__caption">
+  <mj-text mj-class="process__caption h2"
+           css-class="process__caption h2">
     <span>Our Phylosophy</span>
   </mj-text>
 
@@ -20,8 +20,8 @@
 
 </mj-column>
 
-<mj-column mj-class="process__column"
-           css-class="process__column">
+<mj-column mj-class="process__column process__column2"
+           css-class="process__column process__column2">
 
   <mj-image mj-class="process__image"
             css-class="process__image"

@@ -1,68 +1,71 @@
-<mj-column mj-class="advantages-middle__column"
-           css-class="advantages-middle__column">
+<mj-group    mj-class="advantages-middle__column-group"
+             css-class="advantages-middle__column-group">
 
-  <mj-image mj-class="advantages-middle__image"
-            css-class="advantages-middle__image"
-            src="https://i.postimg.cc/X7DMzVYb/img-agency-adv-web.png"
-            alt="Web"
-            title="Web"
-            width="96px" />
+  <mj-column mj-class="advantages-middle__column"
+             css-class="advantages-middle__column">
 
-  <mj-text mj-class="advantages-middle__caption"
-           css-class="advantages-middle__caption">
-    <span>Web</span>
-  </mj-text>
+    <mj-image mj-class="advantages-middle__image"
+              css-class="advantages-middle__image"
+              src="https://i.postimg.cc/X7DMzVYb/img-agency-adv-web.png"
+              alt="Web"
+              title="Web"
+              width="96px" />
 
-</mj-column>
+    <mj-text mj-class="advantages-middle__caption"
+             css-class="advantages-middle__caption">
+      <span>Web</span>
+    </mj-text>
 
-<mj-column mj-class="advantages-middle__column"
-           css-class="advantages-middle__column">
+  </mj-column>
 
-  <mj-image mj-class="advantages-middle__image"
-            css-class="advantages-middle__image"
-            src="https://i.postimg.cc/Hn6GHm0b/img-agency-adv-digital.png"
-            alt="Digital"
-            title="Digital"
-            width="96px" />
+  <mj-column mj-class="advantages-middle__column"
+             css-class="advantages-middle__column">
 
-  <mj-text mj-class="advantages-middle__caption"
-           css-class="advantages-middle__caption">
-    <span>Digital</span>
-  </mj-text>
+    <mj-image mj-class="advantages-middle__image"
+              css-class="advantages-middle__image"
+              src="https://i.postimg.cc/Hn6GHm0b/img-agency-adv-digital.png"
+              alt="Digital"
+              title="Digital"
+              width="96px" />
 
-</mj-column>
+    <mj-text mj-class="advantages-middle__caption"
+             css-class="advantages-middle__caption">
+      <span>Digital</span>
+    </mj-text>
 
-<mj-column mj-class="advantages-middle__column"
-           css-class="advantages-middle__column">
+  </mj-column>
 
-  <mj-image mj-class="advantages-middle__image"
-            css-class="advantages-middle__image"
-            src="https://i.postimg.cc/285RGqmG/img-agency-adv-print.png"
-            alt="Print"
-            title="Print"
-            width="96px" />
+  <mj-column mj-class="advantages-middle__column"
+             css-class="advantages-middle__column">
 
-  <mj-text mj-class="advantages-middle__caption"
-           css-class="advantages-middle__caption">
-    <span>Print</span>
-  </mj-text>
+    <mj-image mj-class="advantages-middle__image"
+              css-class="advantages-middle__image"
+              src="https://i.postimg.cc/285RGqmG/img-agency-adv-print.png"
+              alt="Print"
+              title="Print"
+              width="96px" />
 
-</mj-column>
+    <mj-text mj-class="advantages-middle__caption"
+             css-class="advantages-middle__caption">
+      <span>Print</span>
+    </mj-text>
 
-<mj-column mj-class="advantages-middle__column"
-           css-class="advantages-middle__column">
+  </mj-column>
 
-  <mj-image mj-class="advantages-middle__image"
-            css-class="advantages-middle__image"
-            src="https://i.postimg.cc/rw066vDt/img-agency-adv-social.png"
-            alt="Social"
-            title="Social"
-            width="96px" />
+  <mj-column mj-class="advantages-middle__column"
+             css-class="advantages-middle__column">
 
-  <mj-text mj-class="advantages-middle__caption"
-           css-class="advantages-middle__caption">
-    <span>Social</span>
-  </mj-text>
+    <mj-image mj-class="advantages-middle__image"
+              css-class="advantages-middle__image"
+              src="https://i.postimg.cc/rw066vDt/img-agency-adv-social.png"
+              alt="Social"
+              title="Social"
+              width="96px" />
 
-</mj-column>
+    <mj-text mj-class="advantages-middle__caption"
+             css-class="advantages-middle__caption">
+      <span>Social</span>
+    </mj-text>
 
+  </mj-column>
+</mj-group>

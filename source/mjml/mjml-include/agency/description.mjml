@@ -1,9 +1,10 @@
-<mj-column mj-class="description__column"
-           css-class="description__column">
+<mj-column mj-class="description__column description__column1"
+           css-class="description__column description__column1">
 
   <mj-accordion>
     <mj-accordion-element>
-      <mj-accordion-title>
+      <mj-accordion-title mj-class="h2"
+                          css-class="h2">
         <span>Happy Clients</span>
       </mj-accordion-title>
       <mj-accordion-text>
@@ -20,12 +21,13 @@
 
 </mj-column>
 
-<mj-column mj-class="description__column"
-           css-class="description__column">
+<mj-column mj-class="description__column description__column2"
+           css-class="description__column description__column2">
 
   <mj-accordion>
     <mj-accordion-element>
-      <mj-accordion-title>
+      <mj-accordion-title mj-class="h2"
+                          css-class="h2">
         <span>Proven Results</span>
       </mj-accordion-title>
       <mj-accordion-text>

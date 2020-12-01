@@ -1,8 +1,8 @@
 <mj-column mj-class="dignity__column"
            css-class="dignity__column">
 
-  <mj-text mj-class="dignity__caption"
-           css-class="dignity__caption">
+  <mj-text mj-class="dignity__caption h2"
+           css-class="dignity__caption h2">
     <span>Award Winning</span>
   </mj-text>
 
@@ -20,8 +20,8 @@
 <mj-column mj-class="dignity__column"
            css-class="dignity__column">
 
-  <mj-text mj-class="dignity__caption"
-           css-class="dignity__caption">
+  <mj-text mj-class="dignity__caption h2"
+           css-class="dignity__caption h2">
     <span>World Class</span>
   </mj-text>
 

@@ -5,6 +5,8 @@
     <mj-title>typenote &mdash; Agency Email Template</mj-title>
     <mj-preview>We work outside of the box &mdash; Innovative, Creative, Strategic</mj-preview>
 
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swa" />
+
     <mj-include path="mjml-include/agency/attributes.mjml" />
 
     <mj-include path="mjml-include/agency/style-inline.mjml" />
@@ -13,7 +15,7 @@
   </mj-head>
 
   <mj-body css-class="body"
-           background-color="#444444">
+           background-color="#161614">
 
     <mj-wrapper mj-class="wrapper"
                 css-class="wrapper"
@@ -44,13 +46,18 @@
         <mj-include path="mjml-include/agency/advantages-middle.mjml" />
       </mj-section>
 
+      <mj-section mj-class="gallery-title"
+                  css-class="gallery-title">
+        <mj-include path="mjml-include/agency/gallery-title.mjml" />
+      </mj-section>
+
       <mj-section mj-class="gallery"
                   css-class="gallery">
         <mj-include path="mjml-include/agency/gallery.mjml" />
       </mj-section>
 
-      <mj-section mj-class="gallery"
-                  css-class="gallery">
+      <mj-section mj-class="gallery gallery-second"
+                  css-class="gallery gallery-second">
         <mj-include path="mjml-include/agency/gallery.mjml" />
       </mj-section>
 

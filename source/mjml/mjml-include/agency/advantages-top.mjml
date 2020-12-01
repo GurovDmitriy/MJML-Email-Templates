@@ -8,8 +8,8 @@
             title="Innovative"
             width="106px" />
 
-  <mj-text mj-class="advantages-top__caption"
-           css-class="advantages-top__caption">
+  <mj-text mj-class="advantages-top__caption h2"
+           css-class="advantages-top__caption h2">
     <span>Innovative</span>
   </mj-text>
 
@@ -37,8 +37,8 @@
             title="Creative"
             width="106px" />
 
-  <mj-text mj-class="advantages-top__caption"
-           css-class="advantages-top__caption">
+  <mj-text mj-class="advantages-top__caption h2"
+           css-class="advantages-top__caption h2">
     <span>Creative</span>
   </mj-text>
 
@@ -66,8 +66,8 @@
             title="Strategic"
             width="106px" />
 
-  <mj-text mj-class="advantages-top__caption"
-           css-class="advantages-top__caption">
+  <mj-text mj-class="advantages-top__caption h2"
+           css-class="advantages-top__caption h2">
     <span>Strategic</span>
   </mj-text>
 
